@@ -57,6 +57,8 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
                     InlineKeyboardButton('How to use', url='https://t.me/how_to_use_bot_rvasp') 
+        ],[
+                    InlineKeyboardButton('Recent Movies', callback_data='recent') 
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -103,6 +105,8 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
                     InlineKeyboardButton('How to use', url='https://t.me/how_to_use_bot_rvasp') 
+        ],[
+                    InlineKeyboardButton('Recent Movies', callback_data='recent') 
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
