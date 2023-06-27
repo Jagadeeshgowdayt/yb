@@ -61,7 +61,7 @@ async def give_filter(client, message):
         if total_results == 0:
             return
         else:
-            return await message.reply_text(f"<b>Hᴇʏ {message.from_user.mention}, {str(total_results)} ʀᴇsᴜʟᴛs ᴀʀᴇ ғᴏᴜɴᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ғᴏʀ ʏᴏᴜʀ ᴏ̨ᴜᴇʀʏ {search}. Kɪɴᴅʟʏ ᴜsᴇ ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ᴏʀ ᴍᴀᴋᴇ ᴀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴀᴅᴅ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇ ғɪʟᴇs. Tʜɪs ɪs ᴀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ sᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ғɪʟᴇs ғʀᴏᴍ ʜᴇʀᴇ...\n\njoin for movies https://t.me/+EnV3oefjryJiNjQ1</b>")
+            return await message.reply_text(f"<b>ನಮಸ್ಕಾರ {message.from_user.mention}, {str(total_results)} {search} ಚಲನಚಿತ್ರದ ಫೈಲ್‌ಗಳು ಇವೆ. ದಯವಿಟ್ಟು ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ಬಳಸಿ ಅಥವಾ ɢʀᴏᴜᴘ ಮಾಡಿ bot ಅನ್ನು admin madi ಚಲನಚಿತ್ರ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ...\n\nಇದು sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ಆದ್ದರಿಂದ ನೀವು ಇಲ್ಲಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ\n\n[ಚಲನಚಿತ್ರಗಳಿಗಾಗಿ ಸೇರಿಕೊಳ್ಳಿ] (https://t.me/+EnV3oefjryJiNjQ1)</b>")
 
 @Client.on_message(filters.private & filters.text & filters.incoming)
 async def pm_text(bot, message):
