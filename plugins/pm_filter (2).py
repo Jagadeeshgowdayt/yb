@@ -1467,7 +1467,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            poster = pic.replace('.jpg', "https://graph.org/file/2a94ec0336284dadfa493.jpg")
+            InputMediaPhoto(random.choice(PICS))
         )
         await query.message.edit_text(
             text=script.RAJKUMAR,
