@@ -457,7 +457,7 @@ async def get_shortlink(chat_id, link):
     if "http" == https: #if https == "http":
         https = "https"
         link = link.replace("http", https) #replacing http to https
-    if URL == "v2.kpslink.in":
+    if URL == "kpslink.in":
         url = f'https://{URL}/shortLink'
         params = {
             "token": API,
@@ -490,13 +490,13 @@ async def get_shortlink(chat_id, link):
                         return data["shortenedUrl"]
                     else:
                         logger.error(f"Error: {data['message']}")
-                        if URL == 'v2.kpslink.in':
+                        if URL == 'kpslink.in':
                             return f'https://{URL}/api?api={API}&url={link}'
                         else:
                             return f'https://{URL}/api?api={API}&link={link}'
         except Exception as e:
             logger.error(e)
-            if URL == 'v2.kpslink.in':
+            if URL == 'kpslink.in':
                 return f'https://{URL}/api?api={API}&url={link}'
             else:
                 return f'https://{URL}/api?api={API}&link={link}'
@@ -513,7 +513,7 @@ async def get_verify_shorted_link(num, link):
         https = "https"
         link = link.replace("http", https)
 
-    if URL == "v2.kpslink.in":
+    if URL == "kpslink.in":
         url = f"https://{URL}/shortLink"
         params = {"token": API,
                   "format": "json",
@@ -545,13 +545,13 @@ async def get_verify_shorted_link(num, link):
                         return data["shortenedUrl"]
                     else:
                         logger.error(f"Error: {data['message']}")
-                        if URL == 'v2.kpslink.in':
+                        if URL == 'kpslink.in':
                             return f'https://{URL}/api?api={API}&url={link}'
                         else:
                             return f'https://{URL}/api?api={API}&link={link}'
         except Exception as e:
             logger.error(e)
-            if URL == 'v2.kpslink.in':
+            if URL == 'kpslink.in':
                 return f'https://{URL}/api?api={API}&url={link}'
             else:
                 return f'https://{URL}/api?api={API}&link={link}'
