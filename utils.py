@@ -457,7 +457,7 @@ async def get_shortlink(chat_id, link):
     if "http" == https: #if https == "http":
         https = "https"
         link = link.replace("http", https) #replacing http to https
-    if URL == "v2.kpslink.in":
+    if URL == "kpslink.in":
         url = f'https://{URL}/shortLink'
         params = {
             "token": API,
@@ -513,7 +513,7 @@ async def get_verify_shorted_link(num, link):
         https = "https"
         link = link.replace("http", https)
 
-    if URL == "v2.kpslink.in":
+    if URL == "kpslink.in":
         url = f"https://{URL}/shortLink"
         params = {"token": API,
                   "format": "json",
