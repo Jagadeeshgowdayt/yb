@@ -1467,7 +1467,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await client.edit_message_media(
             query.message.chat.id, 
             query.message.id, 
-            message.reply_photo(photo=NOR_IMG))
+            InputMediaPhoto(random.choice(SPELL_IMG))
         )
         await query.message.edit_text(
             text=script.RAJKUMAR,
