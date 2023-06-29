@@ -1497,6 +1497,89 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Robert 2021</code>
 <code>Varada 2022</code>"""
 
+    SHARAN = """<b>ಶರಣ್</b> 
+<code>Karpoorada Gombe 1996</code>
+<code>Prema Prema Prema 1999</code>
+<code>Arunodaya 1999</code>
+<code>Snehaloka 1999</code>
+<code>Nan Hendthi Chennagidale 2000</code>
+<code>Yuvaraja 2001</code>
+<code>Chithra 2001</code> (not available)
+<code>Friends 2002</code>
+<code>Baithare Baithare 2002</code>
+<code>Ninne Preethisuve 2002</code>
+<code>Devaru Varavanu Kotre 2002</code>
+<code>Kaun Banega Kotyadipathi 2003</code> (not available)
+<code>Kushalave kshemave 2003</code>
+<code>monalisa 2004</code>
+<code>Rowdy aliya 2004</code>
+<code>Sarvabhouma 2004</code>
+<code>Aham Premasmi 2005</code>
+<code>Sirichandana 2005</code>
+<code>7 O Clock 2006</code>
+<code>Hatavadi 2006</code>
+<code>Tananam Tananam 2006</code>
+<code>Jothe Jotheyali 2006</code>
+<code>Sixer 2007</code>
+<code>Pallakki 2007</code>
+<code>Krishna 2007</code>
+<code>Gunavantha 2007</code>
+<code>Ee Preethi Yeke Bhoomi Melide 2008</code>
+<code>Honganasu 2008</code> (not available)
+<code>Sundari Ganda Sadananda 2008</code>
+<code>Vasanthakala 2008</code>
+<code>Akka Thangi 2008</code>
+<code>Maleyali joteyali 2009</code>
+<code>Josh 2009</code>
+<code>Ee Sambhashane 2009</code>
+<code>Love Guru 2009</code>
+<code>Male Barali Manju Irali 2009</code>
+<code>Mr Painter 2009</code>
+<code>Gaana Bajaana 2010</code>
+<code>Bombat Car 2010</code>
+<code>Eno Onthara 2010</code>
+<code>Premism 2010</code>
+<code>Hoo 2010</code>
+<code>Porki 2010</code>
+<code>Nooru Janmaku 2010</code>
+<code>Punda 2010</code>
+<code>Modalasala 2010</code>
+<code>Olave mandara 2011</code>
+<code>Kempe gowda 2011</code>"""
+
+    SHARAN1 = """<code>Sanju weds geetha 2011</code>
+<code>Mathond madhuvena 2011</code>
+<code>Kool 2011</code>
+<code>Johny mera naam preethi mera kaam 2011</code>
+<code>Bhadra 2011</code>
+<code>Aarakshaka 2012</code>
+<code>Parijatha 2012</code>
+<code>Lucky 2012</code>
+<code>Rambo 2012</code>
+<code>Ee Bhoomi Aa Bhanu 2013</code>
+<code>Varadhanayaka 2013</code>
+<code>Neenandre Ishta Kano 2013</code>
+<code>Bulbul 2013</code>
+<code>Victory 2013</code>
+<code>Hara 2014</code> (not available)
+<code>Jai lalitha 2014</code>
+<code>Maanikya 2014</code>
+<code>Adyaksha 2014</code>
+<code>Raja rajendra 2015</code>
+<code>Bullet basya 2015</code>
+<code>Jai maruthi 800 2016</code>
+<code>Nataraja service 2016</code>
+<code>Raj vishnu 2017</code>
+<code>Satya harishchandra 2017</code>
+<code>Raambo 2 2018</code>
+<code>Victory 2 2018</code>
+<code>Adyaksha in america 2019</code>
+<code>Avatara purusha 2022</code>
+<code>Guru shishyaru 2022</code>"""
+
+
+    
+
 
 
     
