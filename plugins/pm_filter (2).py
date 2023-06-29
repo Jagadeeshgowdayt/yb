@@ -1244,6 +1244,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ರಾಘವೇಂದ್ರ', callback_data='raghavendra'),
             InlineKeyboardButton('ಜಗ್ಗೇಶ್', callback_data='jaggesh') 
         ],[
+            InlineKeyboardButton('ರಾಮ್ ಕುಮಾರ್', callback_data='ramkumar'),
+            InlineKeyboardButton('ಚಂದನ್ ಕುಮಾರ್', callback_data='chandankumar'), 
+            InlineKeyboardButton('ಪ್ರೇಮ್', callback_data='prem') 
+        ],[
             InlineKeyboardButton('⬅️Back', callback_data='hero'),
             InlineKeyboardButton('Next➡️', callback_data='hero2')
         ]]
@@ -1850,6 +1854,54 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
         await query.message.edit_text(
             text=script.JAGGESH1,
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
+
+    elif query.data == "ramkumar":
+        buttons = [[
+            InlineKeyboardButton('⬅️Bᴀᴄᴋ', callback_data='hero1') 
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        await query.message.edit_text(
+            text=script.RAMKUMAR,
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
+
+    elif query.data == "chandankumar":
+        buttons = [[
+            InlineKeyboardButton('⬅️Bᴀᴄᴋ', callback_data='hero1')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        await query.message.edit_text(
+            text=script.CHANDANKUMAR,
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
+
+    elif query.data == "prem":
+        buttons = [[
+            InlineKeyboardButton('⬅️Bᴀᴄᴋ', callback_data='hero1')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await client.edit_message_media(
+            query.message.chat.id, 
+            query.message.id, 
+            InputMediaPhoto(random.choice(PICS))
+        )
+        await query.message.edit_text(
+            text=script.PREM,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
