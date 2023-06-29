@@ -1622,12 +1622,12 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Naniruvude ninagagi 1979</code>
 <code>Nanobba kalla 1979</code>
 <code>Point Parimala 1980</code>
-<code>Nanna rosha nooru varusha 1980</code>
-<code>Rama parushurama 1980</code>
-<code>Kaalinga 1980</code>
-<code>Kulla Kulli 1980</code>"""
+<code>Nanna rosha nooru varusha 1980</code>"""
 
-    PRABAKAR1 = """<code>Auto Raja 1980</code>
+    PRABAKAR1 = """<code>Rama parushurama 1980</code>
+<code>Kaalinga 1980</code>
+<code>Kulla Kulli 1980</code>
+<code>Auto Raja 1980</code>
 <code>Ravichandra 1980</code>
 <code>Prema Anuraga 1980</code>
 <code>Moogana Sedu 1980</code>
@@ -1672,13 +1672,13 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Simhasana 1983</code>
 <code>Jaggu 1983</code>
 <code>Nyaya Gedditu 1983</code>
-<code>Chandi Chamundi 1983</code>
-<code>Chakravyuha 1983</code>
+<code>Chandi Chamundi 1983</code>"""
+
+    PRABAKAR2 = """<code>Chakravyuha 1983</code>
 <code>Sididedda sahodara 1983</code>
 <code>Kranthiyogi Basavanna 1983</code>
-<code>Mutthaide Bhagya 1983</code>"""
-
-    PRABAKAR2 = """<code>Geluvu Nannade 1983</code>
+<code>Mutthaide Bhagya 1983</code>
+<code>Geluvu Nannade 1983</code>
 <code>Hasida Hebbuli 1983</code>
 <code>Mududida Tavare Aralithu 1983</code>
 <code>Gayathri Maduve 1983</code>
@@ -1722,14 +1722,14 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Nee Nanna Daiva 1988</code>
 <code>Mutthinantha Manushya 1988</code>
 <code>Bidisada Bandha 1989</code>
-<code>Padma Vyuha 1989</code>
-<code>Bangarada Baduku 1989</code> (not available)
+<code>Padma Vyuha 1989</code>"""
+
+    PRABAKAR3 = """<code>Bangarada Baduku 1989</code> (not available)
 <code>Idu Saadhya 1989</code>
 <code>Onti Salaga 1989</code>
 <code>Namma Bhoomi 1989</code>
-<code>Hosa Kavya 1989</code>"""
-
-    PRABAKAR3 = """<code>Raja Yuvaraja 1989</code>
+<code>Hosa Kavya 1989</code>
+<code>Raja Yuvaraja 1989</code>
 <code>En Swamy Aliyandre 1989</code>
 <code>Ranabheri 1990</code>
 <code>Pundara Ganda 1990</code> (not available)
