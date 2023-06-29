@@ -1478,6 +1478,27 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Dalapathi 2018</code>
 <code>life jothe ondh selfie 2018</code>
 <code>Premam Poojyam 2021</code> (not available)"""
+
+    VINODPRABAKAR = """<b>ವಿನೋದ್ ಪ್ರಭಾಕರ್</b>   
+<code>Dil 2002</code>
+<code>Phatinga 2002</code> (not available)
+<code>Maha Nagara 2006</code>
+<code>VIP 5 2007</code>
+<code>Circle Rowdy 2007</code>
+<code>Navagraha 2008</code>
+<code>Hori 2011</code>
+<code>Gajendra 2013</code> (not available)
+<code>Belli 2014</code>
+<code>Tyson 2016</code>
+<code>crack 2017</code>
+<code>Mari tiger 2018</code>
+<code>Rugged 2019</code>
+<code>Shadow 2021</code>
+<code>Robert 2021</code>
+<code>Varada 2022</code>"""
+
+
+
     
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
