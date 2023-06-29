@@ -1399,6 +1399,85 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Kalidasa kannada mestru 2019</code>
 <code>Thothapuri Chapter 1 2022</code>
 <code>Raghavendra Stores 2022</code>"""
+
+    RAMKUMAR = """<b>ರಾಮ್ ಕುಮಾರ್ </b> 
+<code>Aavesha 1990</code>
+<code>Muthina haara 1990</code>
+<code>Gejje Naada 1993</code>
+<code>Bhagavan Sri Saibaba 1993</code>
+<code>Poorna Satya 1994</code>
+<code>Mahakshathriya 1994</code>
+<code>State Rowdy 1995</code>
+<code>Kavya 1995</code>
+<code>Thaliya Sowbhagya 1995</code>
+<code>Thaayi Illada Thavaru 1995</code>
+<code>Hosa Baduku 1995</code>
+<code>Shravana Sanje 1995</code>
+<code>Giddu Dada 1995</code>
+<code>Gaaya 1996</code>
+<code>Thavarina Thottilu 1996</code>
+<code>Gulaabi 1996</code>
+<code>Pooja 1996</code>
+<code>Surya Puthra 1996</code></code>
+<code>Jenina Hole 1997</code> (not available)
+<code>April Fool 1997</code>
+<code>Nee Mudida Mallige 1997</code>
+<code>Vajra 1998</code> (not available)
+<code>Thavarina Kanike 1998</code> (not available)
+<code>Habba 1999</code>
+<code>Number 1 1999</code>
+<code>Aahaa 1999</code>
+<code>Naanenu Madlilla 1999</code>
+<code>Snehaloka 1999</code>
+</code>Premi 2000</code> (not available)
+<code>Swalpa Adjust Madkolli 2000</code>
+<code>Gaajina Mane 2000</code>
+<code>Ellara Mane Dosenu 2001</code>
+<code>Aunty Preethse 2001</code>
+<code>Punjabi House 2002</code> (not available)
+<code>Manase O Manase 2002</code> (not available)
+<code>Kushalave kshemave 2003</code>
+<code>Saagari 2004</code>
+<code>Abhinandane 2005</code> (not available)
+<code>Pandavaru 2006</code>
+<code>Navashakthi Vaibhava 2008</code>
+<code>Jodi Number 1 2009</code>
+<code>Sri Naga Shakthi 2011</code>
+<code>Sri Kshetra Adichunchanagiri 2013</code>
+<code>Sheegrameva Kalyana Prapthirasthu 2021</code> (not available)"""
+
+    CHANDANKUMAR = """<b>ಚಂದನ್ ಕುಮಾರ್</b>
+<code>Lifeu Ishtene 2011</code>
+</code>Parinaya 2014</code>
+</code>Katte 2015</code>
+<code>Eradondla Mooru 2015</code>
+<code>Luv U Alia 2015</code>
+<code>Bangalore 560023 2015</code>
+<code>Prema baraha 2018</code>"""
+
+    PREM = """<b>Lovely ಸ್ಟಾರ್ ಪ್ರೇಮ್</b> 
+<code>Praana 2004</code>
+<code>Nenapirali 2005</code>
+<code>Jothe Jotheyali 2006</code>
+<code>Savi Savi Nenapu 2007</code>
+<code>Pallakki 2007</code>
+<code>Gunavantha 2007</code>
+<code>Honganasu 2008</code> (not available)
+<code>Ghauttham 2009</code>
+<code>Jothegara 2010</code>
+<code>I am sorry mathe banni preethsona 2011</code>
+<code>Dhan Dhana Dhan 2011</code>
+<code>Charminar 2013</code>
+<code>Chandra 2013</code>
+<code>Shathru 2013</code>
+<code>Athi aparoopa 2014</code>
+<code>Fair and Lovely 2014</code>
+<code>Male 2015</code>
+<code>Mast Mohabbat 2016</code>
+<code>Chowka 2017</code>
+<code>Dalapathi 2018</code>
+<code>life jothe ondh selfie 2018</code>
+<code>Premam Poojyam 2021</code> (not available)"""
     
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
