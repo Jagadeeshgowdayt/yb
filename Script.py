@@ -1577,6 +1577,182 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Avatara purusha 2022</code>
 <code>Guru shishyaru 2022</code>"""
 
+    PRABAKAR = """<b>ಟೈಗರ್ ಪ್ರಭಾಕರ್</b> 
+    <code>Kadina Rahasya 1967</code>
+<code>Punya Purusha 1969</code> (not available)
+<code>Mathrubhoomi 1969</code>
+<code>Kallara Kalla 1970</code>
+<code>Modala Rathri 1970</code> (not available)
+<code>Baalu Belagithu 1970</code>
+<code>Paropakari 1970</code>
+<code>Mahadiya Mane 1970</code>
+<code>Kasidre kailasa 1971</code>
+<code>pratidwani 1971</code>
+<code>Triveni 1973</code>
+<code>Cow Boy Kulla 1973</code> (not available)
+<code>Gandhada gudi 1973</code>
+<code>Professor Huchuraya 1974</code>
+<code>Anna attige 1974</code>
+<code>Kalla kulla 1975</code>
+<code>Bhagya Jyothi 1975</code>
+<code>Nagakanye 1975</code>
+<code>Mayura 1975</code>
+<code>Bangalore Bhootha 1976</code> (not available)
+<code>Raja nanna raja 1976</code>
+<code>Bangarada gudi 1976</code>
+<code>Badavara bandhu 1976</code>
+<code>Aparadhi 1976</code>
+<code>Lakshmi Nivasa 1977</code>
+<code>Giri kanye 1977</code>
+<code>Shrimanthana Magalu 1977</code>
+<code>Sahodarara savaal 1977</code>
+<code>Olavu geluvu 1977</code>
+<code>Kittu Puttu 1977</code>
+<code>Shankar guru 1978</code>
+<code>Premayana 1978</code>
+<code>Operation diamond racket 1978</code>
+<code>Vasantha Lakshmi 1978</code>
+<code>Thayige thakka maga 1978</code>
+<code>Seetharamu 1979</code>
+<code>Huliya haalina mevu 1979</code>
+<code>Pakka Kalla 1979</code>
+<code>Preethi Madu Thamashe Nodu 1979
+<code>Vijay vikram 1979</code>
+<code>Putani Agent 123 1979</code>
+<code>Naniruvude ninagagi 1979</code>
+<code>Nanobba kalla 1979</code>
+<code>Point Parimala 1980</code>
+<code>Nanna rosha nooru varusha 1980</code>
+<code>Rama parushurama 1980</code>
+<code>Kaalinga 1980</code>
+<code>Kulla Kulli 1980</code>"""
+
+    PRABAKAR1 = """<code>Auto Raja 1980</code>
+<code>Ravichandra 1980</code>
+<code>Prema Anuraga 1980</code>
+<code>Moogana Sedu 1980</code>
+<code>Haddina Kannu 1980</code>
+<code>Simha jodi 1980</code>
+<code>Vasanta Geetha 1980</code>
+<code>Aarada Gaaya 1980</code>
+<code>Janma Janmada Anubandha 1980</code>
+<code>Pattanakke Banda Pathniyaru 1980</code>
+<code>Aadi Manava 1980</code>
+<code>Thayiya Madilalli 1981</code>
+<code>Haavina Hede 1981</code>
+<code>Antha 1981</code>
+<code>Prachanda Putanigalu 1981</code>
+<code>Naga kala bhairava 1981</code>
+<code>Geetha 1981</code>
+<code>Maha prachandaru 1981</code>
+<code>Devara Aata 1981</code>
+<code>Ganesha Mahime 1981</code>
+<code>Snehitara Savaal 1981</code>
+<code>Bhaari Bharjari Bete 1981</code>
+<code>Shikari 1981</code>
+<code>Chellida Raktha 1982</code>
+<code>Sahasasimha 1982</code>
+<code>Archana 1982</code>
+<code>Prema Matsara 1982</code>
+<code>Mullina Gulabi 1982</code>
+<code>Mutthinantha Atthige 1982</code> (not available)
+<code>Benki Chendu 1982</code>
+<code>Karmika kallanalla 1982</code>
+<code>Garuda Rekhe 1982</code>
+<code>Boodi Mucchida Kenda 1982</code> (not available)
+<code>Ajith 1982</code>
+<code>Oorige upakari 1982</code>
+<code>Tony 1982</code>
+<code>Jimmy gallu 1982</code>
+<code>Nyaya Ellide 1982</code>
+<code>Nanna Devaru 1982
+<code>Kannu Theresida Hennu 1982</code>
+<code>Khadeema Kallaru 1982</code>
+<code>Onde Guri 1982</code>
+<code>Simhasana 1983</code>
+<code>Jaggu 1983</code>
+<code>Nyaya Gedditu 1983</code>
+<code>Chandi Chamundi 1983</code>
+<code>Chakravyuha 1983</code>
+<code>Sididedda sahodara 1983</code>
+<code>Kranthiyogi Basavanna 1983</code>
+<code>Mutthaide Bhagya 1983</code>"""
+
+    PRABAKAR2 = """<code>Geluvu Nannade 1983</code>
+<code>Hasida Hebbuli 1983</code>
+<code>Mududida Tavare Aralithu 1983</code>
+<code>Gayathri Maduve 1983</code>
+<code>Karune Illada Kanoonu 1983</code>
+<code>Prema Yuddha 1983</code>
+<code>Raktha Tilaka 1984</code>
+<code>Huliyada Kala 1984</code> (not available)
+<code>Vigneshwara Vahana 1984</code>
+<code>Jiddu 1984</code>
+<code>Huli Hejje 1984</code>
+<code>Kanoonige Saval 1984</code>
+<code>Premigala Saval 1984</code>
+<code>Hosa Ithihasa 1984</code>(not</code>available)
+<code>Preethi Vathsalya 1984</code>
+<code>Kadina Raja 1985</code>
+<code>Pralaya Rudra 1985</code>
+<code>Sedina Hakki 1985</code>
+<code>Swabhimana 1985</code>
+<code>Thayi Mamathe 1985</code>
+<code>Thayiye Nanna Devaru 1986</code>
+<code>Kedi Number 1 1986</code>
+<code>Agni Parikshe 1986</code>
+<code>Seelu Nakshathra 1986</code> (not available)
+<code>Tiger 1986</code>
+<code>Belli Naga 1986</code>
+<code>Aparadhi Nanalla 1986</code>
+<code>Premaloka 1987</code>
+<code>Onde Goodina Hakkigalu 1987</code>
+<code>Huli Hebbuli 1987</code>
+<code>Sathwa Pareekshe 1987
+<code>Thaliya Aane 1987</code>
+<code>Agni Parva 1987</code> (not available)
+<code>Bedi 1987</code>
+<code>Bandha Muktha 1987</code>
+<code>Athiratha Maharatha 1987</code>
+<code>Shakthi 1988</code>
+<code>Kirathaka 1988</code>
+<code>Bharath 1988</code>
+<code>Mathru Vathsalya 1988</code>
+<code>Dharmathma 1988</code>
+<code>Nee Nanna Daiva 1988</code>
+<code>Mutthinantha Manushya 1988</code>
+<code>Bidisada Bandha 1989</code>
+<code>Padma Vyuha 1989</code>
+<code>Bangarada Baduku 1989</code> (not available)
+<code>Idu Saadhya 1989</code>
+<code>Onti Salaga 1989</code>
+<code>Namma Bhoomi 1989</code>
+<code>Hosa Kavya 1989</code>"""
+
+    PRABAKAR3 = """<code>Raja Yuvaraja 1989</code>
+<code>En Swamy Aliyandre 1989</code>
+<code>Ranabheri 1990</code>
+<code>Pundara Ganda 1990</code> (not available)
+<code>Tiger Gangu 1990</code>
+<code>Kiladi Thatha 1990</code>
+<code>Trinetra 1990</code>
+<code>Sididedda Gandu 1990</code>
+<code>Raja Kempu Roja 1990</code>
+<code>Ashoka Chakra 1990</code>
+<code>Challenge 1990</code>
+<code>Varagala Bete 1991</code> (not available)
+<code>Prema Pareekshe 1991</code>
+<code>CBI VIJAY 1991</code>
+<code>Keralida Kesari 1991</code>
+<code>CBI SHIVA 1991</code>
+<code>Central Rowdy 1991
+<code>Bombay Dada 1991</code>
+<code>Mathru Bhagya 1991
+<code>Khiladi Gandu 1991</code>
+<code>Kaliyuga Bheema 1991
+<code>Putta Hendthi 1992
+<code>Samara Simha 1992</code> (not available)
+<code>Belliyappa Bangarappa 1992"""
 
     
 
