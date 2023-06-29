@@ -2168,7 +2168,7 @@ async def auto_filter(client, msg, spoll=False):
             release_date=imdb['release_date'],
             year=imdb['year'],
             genres=imdb['genres'],
-            poster=imdb['poster'],
+            poster=graph['poster'],
             plot=imdb['plot'],
             rating=imdb['rating'],
             url=imdb['url'],
@@ -2176,9 +2176,9 @@ async def auto_filter(client, msg, spoll=False):
         )
     else:
         cap = f"<b>ನಮಸ್ಕಾರ {message.from_user.mention}, ನೀವು ಕೇಳಿದ ಚಲನಚಿತ್ರ {search}. ನಮ್ಮಲ್ಲಿ ಲಭ್ಯವಿರುವುದು.</b>"
-    if imdb and imdb.get('poster'):
+    if imdb and graph('poster'):
         try:
-            hehe = await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
+            hehe = await message.reply_photo(photo=graph('poster'), caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
             try:
                 if settings['auto_delete']:
                     await asyncio.sleep(600)
@@ -2190,7 +2190,7 @@ async def auto_filter(client, msg, spoll=False):
                 await hehe.delete()
                 await message.delete()
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
-            pic = imdb.get('poster')
+            pic = graph('poster')
             poster = pic.replace('.jpg', "https://graph.org/file/4add35bca501767e8428f.jpg")
             hmm = await message.reply_photo(photo=poster, caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
             try:
