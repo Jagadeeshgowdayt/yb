@@ -1815,6 +1815,261 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Bharaate 2019</code>
 <code>Madhagaja 2021</code>"""
 
+    ANANTHNAG = """<b>ಅನಂತ್ ನಾಗ್</b> 
+<code>Sankalpa_1973</code> 
+<code>Devara_Kannu_1975</code> 
+<code>Hamsageethe_1975</code> 
+<code>Bayalu_Daari_1976</code> 
+<code>Kanneshwara_Rama_1977</code> 
+<code>Anuroopa_1977</code> 
+<code>Kudure_Mukha_1977</code> 
+<code>Maathu_Tappada_Maga_1978</code> 
+<code>Premayana_1978</code> 
+<code>Madhura_Sangama_1978</code> 
+<code>Naa_Ninna_Bidalaare_1979</code> 
+<code>Chandanada_Gombe_1979</code> 
+<code>Mutthu_Ondu_Mutthu_1979</code> 
+<code>Minchina_Ota_1980</code> 
+<code>Dhairya_Lakshmi_1980</code> 
+<code>Ondu_Hennu_Aaru_Kannu_1980</code> 
+<code>Narada_Vijaya_1980</code> 
+<code>Janma_Janmada_Anubandha_1980</code> 
+<code>Prema_Jwala_1980</code> 
+<code>Anupama_1981</code> 
+<code>Mareyada_Haadu_1981</code> (not available)
+<code>Jeevakke_Jeeva_1981</code> 
+<code>Shreeman_1981</code> 
+<code>Andada_Aramane_1982</code> (not available)
+<code>Baadada_Hoo_1982</code>
+<code>Mullina_Gulabi_1982</code> 
+<code>Bara_1982</code>
+<code>Nanna_Devaru_1982</code> 
+<code>Hasyaratna_Ramakrishna_1982</code>
+<code>Bettale_Seve_1982</code>
+<code>Ibbani_Karagithu_1982</code>
+<code>Simhasana_1983</code> 
+<code>Anveshane_1983</code>
+<code>Benkiya_Bale_1983</code>
+<code>Gayathri_Maduve_1983</code> 
+<code>Hosa_Theerpu_1983</code>
+<code>Kaamana_Billu_1983</code> 
+<code>Bhakta_Prahlada_1983</code> 
+<code>Phaniyamma_1983</code>
+<code>Mududida_Tavare_Aralithu_1983</code> 
+<code>Chalisida_Sagara_1983</code> (not available)
+<code>Nodi_Swamy_Navirodu_Hige_1983
+<code>Sukha_Samsarakke_Hanneradu_Sootragalu_1984
+<code>Premave_Balina_Belaku_1984
+<code>Prema_Sakshi_1984</code>
+<code>Ramapurada_Ravana_1984</code>"""
+
+    ANANTHNAG1 = """<code>Olave_Baduku_1984</code>
+<code>Olavu_Moodidaga_1984</code>
+<code>Makkaliralavva_Mane_Thumba_1984</code>
+<code>Accident_1985</code>
+<code>Bidugadeya_Bedi_1985</code>
+<code>Parameshi_Prema_Prasanga_1985
+<code>Shwetha_Gulabi_1985</code> 
+<code>Haavu_Eni_Aata_1985</code>
+<code>Sedina_Hakki_1985</code> 
+<code>Shabdagalu_1985</code>
+<code>Hendthi_Beku_Hendthi_1985</code>
+<code>Hosa_neeru_1986</code> 
+<code>Nenapina_Doni_1986</code>
+<code>Prema_Jala_1986</code>
+<code>Aruna_Raaga_1986</code> 
+<code>Maneye_Manthralaya_1986</code>
+Thayi_1987</code> 
+<code>Avasthe_1987</code>
+<code>Kurukshetra_1987</code>
+<code>Athiratha_Maharatha_1987</code> 
+<code>Daiva_Shakti_1987</code>
+<code>Brahma_Vishnu_Maheshwara_1988</code> 
+<code>Ranadheera_1988</code> 
+<code>Shanthi_Nivasa_1988</code>
+<code>Varna_Chakra_1988</code>
+<code>Sri_Venkateshwara_Mahime_1988</code>
+<code>Balondu_Bhavageethe_1988</code>
+<code>Mutthaide_1988</code>
+<code>Amaanusha_1989</code> (not available)
+<code>Hendthighelbedi_1989</code>
+<code>Idu_Saadhya_1989</code> 
+<code>Gagana_1989</code>
+<code>Golmaal_Radhakrishna_1990</code>
+<code>Ramarajyadalli_Rakshasaru_1990</code> 
+<code>Swarna_Samsara_1999</code>
+<code>Challenge_Gopalakrishna_1990</code>
+<code>Udbhava_1990</code>
+<code>Abhimanyu_1990</code>
+<code>Mathe_haditu_kogile_1990</code> 
+<code>Anantha_Prema_1990</code>
+<code>Ganeshana_Maduve_1990</code>
+<code>Ivalentha_Hendthi_1990</code> (not available)
+<code>Maneli_Ili_Beedili_Huli_1991</code>
+<code>Golmal_Radhakrishna_Part_2_1991</code>
+<code>Rollcall_Ramakrishna_1991</code> 
+<code>Gowri_Ganesha_1991</code>
+<code>Hosa_Mane_Aliya_1991</code>
+<code>Shanti_Kranti_1991</code>"""
+
+    ANANTHNAG2 = """<code>Nagini_1991</code>
+<code>Aathanka_1993</code> 
+<code>Undu_Hoda_Kondu_Hoda_1992</code>
+<code>Vajrayudha_1992</code> 
+<code>Ondu_Cinema_Kathe_1992</code>
+<code>Shakti_Yukti_1992</code>
+<code>Marana_Mrudanga_1992</code>
+<code>Jhenkaara_1992</code>
+<code>Ganesha_Subramanya_1992</code>
+<code>Rajakeeya_1993</code>
+<code>Aathanka_1993</code>
+<code>Mangalya_Bandhana_1993</code>
+<code>Kadambari_1993</code>
+<code>Nishkarsha_1994</code>
+<code>Thooguve_Krishnana_1994</code>
+<code>Yarigu_Helbedi_1994</code>
+<code>Gangavva_Gangamayi_1994</code> (not available)
+<code>Beladingala_Baale_1995</code>
+<code>Nilukada_Nakshatra_1995</code>
+<code>Samayakkondu_Sullu_1996</code>
+<code>Thaali_Pooje_1996</code>
+<code>Nirbandha_1996</code>
+<code>Jeevanadhi_1996</code> 
+<code>Anuraga_Spandana_1996</code>
+<code>Ganesha_I_Love_U_1997</code>
+<code>Vishwa_1999</code> 
+<code>Naanenu_Madlilla_1999</code>
+<code>Preethse_2000</code> 
+<code>Tiger_Padmini_2000</code> (not available)
+<code>Krishna_Leele_2000</code> 
+<code>Chamundi_2000</code>
+<code>Yaarige_Saluthe_Sambala_2000</code>
+<code>Nan_Hendthi_Chennagidale_2000</code> 
+<code>Swalpa_Adjust_Madkolli_2000</code> 
+<code>Andhra_Hendthi_2000</code>
+<code>Mathadana_2001</code>
+<code>Kurigalu_Saar_Kurigalu_2001</code> 
+<code>Asura_2001</code> 
+<code>Aunty_Preethse_2001</code> 
+<code>Chithra_2001</code> (not available)
+<code>Amma_2001</code> (not available)
+<code>Neela_2001</code> (not available)
+<code>Chitte_2001</code>
+<code>Hello_Narada_2001</code> (not available)
+<code>Bhootayyana_Makkalu_2002</code> (not available)
+<code>Manase_O_Manase_2002</code> (not available)
+<code>Manasella_Neene_2002</code>
+<code>Naanu_naane_2002</code>"""
+
+    ANANTHNAG3 = """<code>Hollywood_2002</code>
+Ananda_2003</code> (not available)
+<code>Bangalore_Bandh_2003</code> 
+<code>Lankesh_patrike_2003</code> 
+<code>Preethi_Prema_Pranaya_2003</code>
+<code>Khushi_2003</code> 
+<code>Chigurida_kanasu_2003</code> 
+<code>Mouni_2003</code>
+<code>Saagari_2004</code> 
+<code>Mellusire_Savigana_2004</code>
+<code>Pakkadmane_Hudugi_2004</code> 
+<code>Santhosha_2004</code> (not available)
+<code>Encounter_Dayanayak_2005</code>
+<code>Nenapirali_2005</code> 
+<code>Vishnu_sena_2005</code>
+<code>Shree_2006</code>
+<code>Uppi_Dada_MBBS_2006</code> 
+<code>Neenello_naanalle_2006</code> 
+<code>Ravi_Shastri_2006</code> 
+<code>Kallarali_Hoovagi_2006</code>
+<code>Mungaaru_male_2006</code>
+<code>Sajni_2007</code>
+<code>Nali_Naliyutha_2007</code>
+<code>Ninade_Nenapu_2007</code>
+<code>Snehanjali_2007</code>
+<code>Ganesha_2007</code>
+<code>Ee_Bandhana_2007</code>
+<code>Gaalipata_2008</code> 
+<code>Yuga_Yugagale_Sagali_2008</code>
+<code>Aramane_2008</code> 
+<code>Super_Jodi_2008</code> (not available)
+<code>Neene_Neene_2008</code>
+<code>Taj_Mahal_2008</code>
+<code>Arjun_2008</code>
+<code>Ganesha_Matte_Bandha_2008</code>
+<code>Ganga_Kaveri_2008</code>
+<code>Nam_Yajamanru_2009</code>
+<code>Baaji_2009</code>
+<code>Ghauttham_2009</code> 
+<code>Chellidaru_Sampigeya_2009</code>
+<code>Eshtu_Naguthi_Nagu_2009</code>
+<code>Cheluvina_Chilipili_2009</code>
+<code>Huchchi_2009</code>
+<code>Mr_Garagasa_2009</code>
+<code>Crazy_kutumba_2010</code> 
+<code>Premism_2010</code> 
+<code>Mr_Theertha_2010</code>
+<code>Eradane_Maduve_2010</code>"""
+
+    ANANTHNAG4 = """<code>Olave_Vismaya_2010</code>
+<code>Preethi_Hungama_2010</code>
+<code>Pancharangi_2010</code>
+<code>Ramegowda_Vs_Krishnaswamy_2010
+<code>Kalgejje_2011</code>
+<code>Take_it_Easy_2011</code>
+<code>Mathond_madhuvena_2011</code> 
+<code>Bhramara_2011</code>
+<code>Paramathma_2011</code> 
+<code>Naanalla_2011</code> (not available)
+<code>Bete_2011</code>
+<code>Dhan_Dhana_Dhan_2011</code>
+<code>Prarthane_2012</code> (not available)
+<code>Jeevana_Jokealli_2011</code>
+<code>Dev_Son_of_Mudde_Gowda_2012</code>
+<code>Dashamukha_2012</code> 
+<code>Breaking_News_2012</code>
+<code>Myna_2013</code> 
+<code>Kaddipudi_2013</code> 
+<code>Googly_2013</code> 
+<code>Sakkare_2012</code> 
+<code>Shravani_subramanya_2013</code>
+<code>Brahma_2014</code>
+<code>Manada_Mareyalli_2014</code> (not available)
+<code>Athi_aparoopa_2014</code> 
+<code>Gajakesari_2014</code>
+<code>Jai_BhajarongBali_2014</code>
+<code>Mrugashira_2014</code>
+<code>Vaastu_Prakaara_2014</code>
+<code>Mr_airavata_2015</code> 
+<code>Plus_2015</code> 
+<code>1st_rank_raju_2015</code> 
+<code>The_Plan_2015</code> (not available)
+<code>Prema_Pallakki_2015</code> (not available)
+<code>Maduveya_Mamatheya_Kareyole_2016</code>
+<code>Parapancha_2016</code>
+<code>U_the_End_A_2016</code>
+<code>Re_2016</code> 
+<code>Godhi_Banna_Sadharana_Mykattu_2016</code>
+<code>Jaggu_dada_2016</code> 
+<code>Santhu_Straight_Forward_2016</code>
+<code>Raajakumara_2017</code> 
+<code>March_22_2017</code> 
+<code>Mugulu_nage_2017</code> 
+<code>Gowdru_Hotel_2017</code>
+<code>hottegaagi_genu_battegaagi_2018</code>
+<code>Sarkari_hi_pra_shaale_kasaragodu_2018</code>
+<code>KGF_CHAPTER_1_2018</code>"""
+
+    ANANTHNAG5 = """<code>Aduva_Gombe_2019</code> (not available)
+<code>Kavaludaari_2019</code> 
+<code>Yaanaa_2019</code> 
+<code>Ayushman_bhava_2019</code> 
+<code>Weekend_2019</code>
+<code>India_vs_england_2020</code> 
+<code>Drishya_2_2021</code> 
+<code>Gaalipata_2_2022</code> 
+<code>Thimayya_&_Thimayya_2022</code>
+<code>Vijayanand_2022</code>"""
+
 
 
 
