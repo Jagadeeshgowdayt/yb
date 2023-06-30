@@ -1993,13 +1993,13 @@ Ananda_2003</code> (not available)
 <code>Aramane_2008</code> 
 <code>Super_Jodi_2008</code> (not available)
 <code>Neene_Neene_2008</code>
-<code>Taj_Mahal_2008</code>
-<code>Arjun_2008</code>
+<code>Taj_Mahal_2008</code>"""
+
+    ANANTHNAG4 = """<code>Arjun_2008</code>
 <code>Ganesha_Matte_Bandha_2008</code>
 <code>Ganga_Kaveri_2008</code>
-<code>Nam_Yajamanru_2009</code>"""
-
-    ANANTHNAG4 = """<code>Baaji_2009</code>
+<code>Nam_Yajamanru_2009</code>
+<code>Baaji_2009</code>
 <code>Ghauttham_2009</code> 
 <code>Chellidaru_Sampigeya_2009</code>
 <code>Eshtu_Naguthi_Nagu_2009</code>
@@ -2038,16 +2038,16 @@ Ananda_2003</code> (not available)
 <code>Gajakesari_2014</code>
 <code>Jai_BhajarongBali_2014</code>
 <code>Mrugashira_2014</code>
-<code>Vaastu_Prakaara_2014</code>
-<code>Mr_airavata_2015</code> 
+<code>Vaastu_Prakaara_2014</code>"""
+
+    ANANTHNAG5 = """<code>Mr_airavata_2015</code> 
 <code>Plus_2015</code> 
 <code>1st_rank_raju_2015</code> 
 <code>The_Plan_2015</code> (not available)
 <code>Prema_Pallakki_2015</code> (not available)
 <code>Maduveya_Mamatheya_Kareyole_2016</code>
-<code>Parapancha_2016</code>"""
-
-    ANANTHNAG5 = """<code>U_the_End_A_2016</code>
+<code>Parapancha_2016</code>
+<code>U_the_End_A_2016</code>
 <code>Re_2016</code> 
 <code>Godhi_Banna_Sadharana_Mykattu_2016</code>
 <code>Jaggu_dada_2016</code> 
@@ -2120,8 +2120,9 @@ Ananda_2003</code> (not available)
 <code>Kempu_Surya_1990</code>
 <code>Ajagajantara_1991</code>
 <code>Athi_Madura_Anuraga_1992</code>
-<code>Love_Training_1993</code>
-<code>Shhh_1993</code>
+<code>Love_Training_1993</code>"""
+
+    KASHINATH1 = """<code>Shhh_1993</code>
 <code>Hendathi_Endare_Heegirabeku_1995</code>
 <code>Bangarada_Mane_1996</code>
 <code>Baduku_Jatakabandi_1997</code>
