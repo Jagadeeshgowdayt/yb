@@ -1857,13 +1857,13 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Phaniyamma_1983</code>
 <code>Mududida_Tavare_Aralithu_1983</code> 
 <code>Chalisida_Sagara_1983</code> (not available)
-<code>Nodi_Swamy_Navirodu_Hige_1983
-<code>Sukha_Samsarakke_Hanneradu_Sootragalu_1984
+<code>Nodi_Swamy_Navirodu_Hige_1983"""
+
+    ANANTHNAG1 = """<code>Sukha_Samsarakke_Hanneradu_Sootragalu_1984
 <code>Premave_Balina_Belaku_1984
 <code>Prema_Sakshi_1984</code>
-<code>Ramapurada_Ravana_1984</code>"""
-
-    ANANTHNAG1 = """<code>Olave_Baduku_1984</code>
+<code>Ramapurada_Ravana_1984</code>
+<code>Olave_Baduku_1984</code>
 <code>Olavu_Moodidaga_1984</code>
 <code>Makkaliralavva_Mane_Thumba_1984</code>
 <code>Accident_1985</code>
@@ -1905,14 +1905,14 @@ Thayi_1987</code>
 <code>Anantha_Prema_1990</code>
 <code>Ganeshana_Maduve_1990</code>
 <code>Ivalentha_Hendthi_1990</code> (not available)
-<code>Maneli_Ili_Beedili_Huli_1991</code>
-<code>Golmal_Radhakrishna_Part_2_1991</code>
+<code>Maneli_Ili_Beedili_Huli_1991</code>"""
+
+    ANANTHNAG2 = """<code>Golmal_Radhakrishna_Part_2_1991</code>
 <code>Rollcall_Ramakrishna_1991</code> 
 <code>Gowri_Ganesha_1991</code>
 <code>Hosa_Mane_Aliya_1991</code>
-<code>Shanti_Kranti_1991</code>"""
-
-    ANANTHNAG2 = """<code>Nagini_1991</code>
+<code>Shanti_Kranti_1991</code>
+<code>Nagini_1991</code>
 <code>Aathanka_1993</code> 
 <code>Undu_Hoda_Kondu_Hoda_1992</code>
 <code>Vajrayudha_1992</code> 
@@ -1953,15 +1953,15 @@ Thayi_1987</code>
 <code>Aunty_Preethse_2001</code> 
 <code>Chithra_2001</code> (not available)
 <code>Amma_2001</code> (not available)
-<code>Neela_2001</code> (not available)
-<code>Chitte_2001</code>
+<code>Neela_2001</code> (not available)"""
+
+    ANANTHNAG3 = """<code>Chitte_2001</code>
 <code>Hello_Narada_2001</code> (not available)
 <code>Bhootayyana_Makkalu_2002</code> (not available)
 <code>Manase_O_Manase_2002</code> (not available)
 <code>Manasella_Neene_2002</code>
-<code>Naanu_naane_2002</code>"""
-
-    ANANTHNAG3 = """<code>Hollywood_2002</code>
+<code>Naanu_naane_2002</code>
+<code>Hollywood_2002</code>
 Ananda_2003</code> (not available)
 <code>Bangalore_Bandh_2003</code> 
 <code>Lankesh_patrike_2003</code> 
@@ -2002,15 +2002,15 @@ Ananda_2003</code> (not available)
 <code>Ghauttham_2009</code> 
 <code>Chellidaru_Sampigeya_2009</code>
 <code>Eshtu_Naguthi_Nagu_2009</code>
-<code>Cheluvina_Chilipili_2009</code>
-<code>Huchchi_2009</code>
+<code>Cheluvina_Chilipili_2009</code>"""
+
+    ANANTHNAG4 = """<code>Huchchi_2009</code>
 <code>Mr_Garagasa_2009</code>
 <code>Crazy_kutumba_2010</code> 
 <code>Premism_2010</code> 
 <code>Mr_Theertha_2010</code>
-<code>Eradane_Maduve_2010</code>"""
-
-    ANANTHNAG4 = """<code>Olave_Vismaya_2010</code>
+<code>Eradane_Maduve_2010</code>
+<code>Olave_Vismaya_2010</code>
 <code>Preethi_Hungama_2010</code>
 <code>Pancharangi_2010</code>
 <code>Ramegowda_Vs_Krishnaswamy_2010
@@ -2050,16 +2050,16 @@ Ananda_2003</code> (not available)
 <code>Re_2016</code> 
 <code>Godhi_Banna_Sadharana_Mykattu_2016</code>
 <code>Jaggu_dada_2016</code> 
-<code>Santhu_Straight_Forward_2016</code>
-<code>Raajakumara_2017</code> 
+<code>Santhu_Straight_Forward_2016</code>"""
+
+    ANANTHNAG5 = """<code>Raajakumara_2017</code> 
 <code>March_22_2017</code> 
 <code>Mugulu_nage_2017</code> 
 <code>Gowdru_Hotel_2017</code>
 <code>hottegaagi_genu_battegaagi_2018</code>
 <code>Sarkari_hi_pra_shaale_kasaragodu_2018</code>
-<code>KGF_CHAPTER_1_2018</code>"""
-
-    ANANTHNAG5 = """<code>Aduva_Gombe_2019</code> (not available)
+<code>KGF_CHAPTER_1_2018</code>
+<code>Aduva_Gombe_2019</code> (not available)
 <code>Kavaludaari_2019</code> 
 <code>Yaanaa_2019</code> 
 <code>Ayushman_bhava_2019</code> 
