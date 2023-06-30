@@ -2143,6 +2143,212 @@ Super_Aliya_2004</code>
 <code>Chowka_2017</code>
 <code>Ol_Muniswamy_2018</code> (not available)"""
 
+    DEVARAJ = """<b>ಡೈನಾಮಿಕ್ ಹೀರೋ ದೇವರಾಜ್</b> 
+<code>Thrishula 1985</code>
+<code>27 Mavalli Circle 1986</code>
+<code>Preethi 1986</code>
+<code>Aaganthuka 1987</code>
+<code>Antima Theerpu 1987</code>
+Ravana Rajya 1987</code>
+<code>Kendada Male 1987</code>
+<code>Dance Raja Dance 1987</code>
+<code>Bandha Muktha 1987</code>
+<code>Sangrama 1987</code>
+<code>Aapadbhandava 1987</code>
+<code>Arjun 1988</code>
+<code>Sambhavami Yuge Yuge 1988</code> (not available)
+<code>Nava Bharatha 1988</code>
+<code>Elu Suttina Kote 1987</code>
+<code>Samyuktha 1988</code>
+<code>Jana nayaka 1988</code>
+<code>Sangliyana 1988</code>
+<code>Anjada Gandu 1988</code>
+<code>Ramanna Shamanna 1988</code>
+<code>Krishna rukmini 1988</code>
+<code>Daada 1988</code>
+<code>Nee Nanna Daiva 1988</code>
+<code>Meenakshi Mane Meshtru 1988</code>
+<code>Yuddha Kaanda 1989</code>
+<code>Tarka 1989</code>
+<code>Hrudaya geethe 1989</code>
+<code>Jackey 1989</code>
+<code>Amaanusha 1989</code>
+<code>Avatara Purusha 1989</code>
+<code>Indrajith 1989</code>
+<code>Hathya kanda 1989</code> (not available)
+<code>Deva 1989</code>
+<code>Hendthighelbedi 1989</code>
+<code>C B I Shankar 1989</code>
+<code>Idu Saadhya 1989</code>
+<code>Poli Huduga 1989</code>
+<code>Nammoora Hammera 1990</code>
+<code>Ranabheri 1990</code>
+<code>sp saangliyaana part 2 1990</code>
+<code>Trinetra 1990</code>
+<code>Aavesha 1990</code>
+<code>Bannada Gejje 1990</code>
+<code>Policena Hendthi 1990</code>
+<code>Prathap 1990</code>
+<code>Utkarsha 1990</code>"""
+
+    DEVARAJ1 = """<code>College Hero 1990</code>
+<code>Poli Kitty 1990</code>
+<code>Sundara Kanda 1991</code>
+<code>Kadana 1991</code>
+<code>Ide Police Belt 1991</code> (not available)
+<code>Rollcall Ramakrishna 1991</code>
+<code>SP Bhargavi 1991</code>
+<code>Veerappan 1991</code>
+<code>Aranyadalli Abhimanyu 1991</code>
+<code>Shwetagni 1991</code>
+<code>Veera Dheera 1991</code>
+<code>Gruha Pravesha 1991</code>
+<code>Mathru Bhagya 1991</code>
+<code>Nagini 1991</code>
+<code>Chitralekha 1992</code>
+<code>Pruthviraj 1992</code>
+<code>Goonda Rajya 1992</code>
+<code>Nanna Thangi 1992</code>
+<code>Police File 1992</code>
+<code>Bhale Keshava 1992</code>
+<code>Roshagara 1992</code>
+<code>Prajegalu Prabhugalu 1992</code> (not available)
+<code>Gharshane 1992</code>
+<code>Bahaddur Hennu 1993</code>
+<code>Rajakeeya 1993</code>
+<code>Sidukabeda Singari 1993</code>
+<code>Abhijith 1993</code>
+<code>Golibaar 1993</code>
+<code>Vijaya Kranthi 1993</code>
+<code>Mojina Maduve 1993</code>
+<code>Jailer Jagannath 1993</code>
+<code>Hosa Love Story 1993</code>
+<code>Time bomb 1994</code>
+<code>Adhipathi 1994</code>
+<code>Gold Medal 1994</code>
+<code>Looti Gang 1994</code>
+<code>Mayor Prabhakar 1994</code>
+<code>Lockup Death 1994</code>
+^Vijaya Kankana 1994</code>
+<code>Curfew 1994</code>
+<code>Hettha Karulu 1994</code> (not available)
+<code>Indian 1994</code>
+<code>Nyayakkagi Saval 1994</code>
+<code>Kidnap 1995</code>
+<code>Killer Diary 1995</code>
+<code>Mother India 1995</code>"""
+
+    DEVARAJ2 = """<code>State Rowdy 1995</code>
+<code>Samara 1995</code>
+<code>Police Power 1995</code>
+<code>Revenge 1995</code> (not available)
+<code>Emergency 1996</code>
+<code>Veerabhadra 1996</code>
+<code>Circle Inspector 1996</code>
+<code>Huliya 1996</code>
+<code>Simhadri 1996</code> (not available)
+<code>Bangarada Mane 1996</code>
+<code>Kempu Mugilu 1996</code>
+<code>Choobana 1997</code>
+<code>Gandedhe Bhaira 1997</code> (not available)
+<code>Yuddha 1997</code>
+<code>Sangliyana Part 3 1997</code>
+<code>Manava 2022 1997</code>
+<code>High Command 1998</code>
+<code>Jai Hind 1998</code>
+<code>Agnisakshi 1998</code>
+<code>Dayadi 1998</code>
+<code>Karnataka Police 1998</code>
+<code>Tharikere Yerimele 1999</code>
+<code>Mr X 1999</code>
+<code>Habba 1999</code>
+<code>Garuda 1999</code>
+<code>Aryabhata 1999</code>
+Durga shakti 1999</code>
+<code>Om Shakti 1999</code>
+<code>Minchu 2000</code>
+<code>Dandanayaka 2000</code>
+<code>Asthra 2000</code>
+<code>Bhoomi 2000</code>
+<code>Billa Ranga 2000</code>
+<code>Naxalite 2000</code>
+<code>Bannada Hejje 2000</code>
+<code>Mathadana 2001</code>
+<code>Prema Rajya 2001</code>
+<code>Jenu Goodu 2001</code>
+<code>Kanoonu 2001</code>
+<code>Sathyameva Jayathe 2001</code>
+<code>Kotigobba 2001</code>
+<code>Neelambari 2001</code>
+<code>Haalu Sakkare 2001</code>
+<code>Dharma Devathe 2002</code>
+<code>Kambalahalli 2002</code>
+<code>yardo duddu yellammana jatre 2003</code>"""
+
+    DEVARAJ3 = """<code>Lankesh patrike 2003</code>
+<code>Tada Khaidi 2003</code>
+<code>Prathidwani 2003</code> (not available)
+<code>Thalwar 2003</code>
+<code>Market Raja 2003</code>
+<code>Inspector Jayasimha 2003</code>
+<code>Khakhi 2003</code> (not available)
+<code>Avale Nanna Gelathi 2004</code>
+<code>Devasura 2004</code>
+<code>Crime Story 2004</code>
+<code>Gowdru 2004</code>
+<code>Maurya 2004</code>
+<code>Jyeshtha 2004</code>
+<code>Deadly Soma 2005</code>
+<code>Nidhi 2006</code>
+<code>Chellata 2006</code>
+<code>Kallarali Hoovagi 2006</code>
+<code>Bhanamathi 2007</code>
+<code>Gaja 2008</code>
+<code>Prachanda Ravana 2008</code>
+<code>Nanda Deepa 2008</code>
+<code>Veera Madakari 2009</code>
+<code>IPC Section 300 2009</code>
+<code>Anischitha 2010</code>
+<code>School Master 2010</code>
+<code>Porki 2010</code>
+<code>Aparadhi 2010</code>
+<code>Meshtru 2010</code>
+<code>Gandedhe 2010</code>
+<code>Gang Leader 2010</code>
+<code>Deadly 2 2010</code>
+<code>Jolly Boy 2011</code>
+<code>Chinnada Thali 2011</code> (not available)
+<code>Aidondla Aidu 2011</code>
+<code>Aacharya 2011</code>
+<code>Jarasandha 2011</code>
+<code>Mr Duplicate 2011</code>
+<code>Dashamukha 2012</code>
+<code>Cauvery Nagara 2013</code> (not available)
+<code>Ranna 2015</code>
+<code>Arjuna 2015</code>
+<code>Preethiyalli Sahaja 2016</code> (not available)
+<code>Nithya Jothe Sathya 2016</code> (not available)
+<code>Run Anthony 2016</code>
+<code>Karvva 2016</code>
+<code>Kotigobba 2 2016</code>"""
+
+    DEVARAJ4 = """<code>Mukunda Murari 2016</code>
+<code>Santhu Straight Forward 2016</code>
+<code>Sundaranga jaana 2016</code>
+<code>Jindaa 2017</code>
+<code>Yugapurusha 2017</code> (not available)
+<code>Tarak 2017</code>
+<code>Once More Kaurava 2017</code>
+<code>Mufti 2017</code>
+<code>Hebbet ramakka 2018</code>
+<code>Tagaru 2018</code>
+<code>Geetha 2019</code>
+<code>Yajamana 2019</code>
+<code>Amar 2019</code>
+<code>Odeya 2019</code>
+<code>Robert 2021</code>
+<code>Head Bush 2022</code>"""
+
 
 
 
