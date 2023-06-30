@@ -1756,6 +1756,68 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 <code>Samara Simha 1992</code> (not available)
 <code>Belliyappa Bangarappa 1992"""
 
+    DIGANTH = """<b>ದೂಧಪೇಡ ದಿಗಂತ್</b> 
+<code>Miss California 2006</code>
+<code>SMS 6260 2006</code>
+<code>Mandya 2006</code>
+<code>Meera Madhava Raghava 2007</code>
+<code>Gaalipata 2008</code>
+<code>Mast Maja Maadi 2008</code>
+<code>HouseFull 2009</code>
+<code>Manasaare 2009</code>
+<code>Male Bille 2009</code>
+<code>Bisile 2010</code>
+<code>Swayamwara 2010</code>
+<code>Pancharangi 2010</code>
+<code>Jolly Boy 2011</code>
+<code>Mr Duplicate 2011</code>
+<code>Lifeu Ishtene 2011</code>
+<code>Putra 2011</code>
+<code>Taare 2011</code>
+<code>Kaanchaana 2011</code>
+<code>Parijatha 2012</code>
+<code>Dev Son of Mudde Gowda 2012</code>
+<code>Barfi 2013</code>
+<code>Minchagi Nee Baralu 2015</code>
+<code>Sharpshooter 2015</code> (not available)
+<code>Parapancha 2016</code>
+<code>Nagarahavu 2016</code>
+<code>Chowka 2017</code>
+<code>Happy new year 2017</code>
+<code>Katheyondu shuruvagide 2018</code>
+<code>Fortuner 2019</code>
+<code>Yuvaratna 2021</code>
+<code>Huttu habbada shubashayagalu 2022</code>
+<code>Kshamisi nimma khatheyalli hanavilla 2022</code>
+<code>Gaalipata 2 2022</code>
+<code>Thimayya and Thimayya 2022</code>"""
+
+    SRIMURULI = """<b>ಶ್ರೀ ಮುರಳಿ</b> 
+<code>Chandra Chakori 2003</code>
+<code>Kanti 2004</code>
+<code>Yeshwanth 2005</code>
+<code>Siddu 2005</code>
+<code>Shambu 2005</code>
+<code>Gopi 2006</code> (note available)
+<code>Preethigaagi 2007</code>
+<code>Minchina Ota 2009</code>
+<code>Shivamani 2009</code>
+<code>Yagna 2009</code>
+<code>Sihigali 2010</code>
+<code>Sri Harikathe 2010</code>
+<code>Hare Rama Hare Krishna 2011</code>
+<code>Sri Kshetra Adichunchanagiri 2013</code>
+<code>Loosegalu 2013</code>
+<code>Ugramm 2014</code>
+<code>Muraari 2015</code> (not available) 
+<code>Rathaavara 2015</code>
+<code>Mufti 2017</code>
+<code>Bharaate 2019</code>
+<code>Madhagaja 2021</code>"""
+
+
+
+
     
 
 
