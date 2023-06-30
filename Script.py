@@ -25,8 +25,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HERO = """<b>Hᴇʏ {}
 ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
-    HERO1 = """<b>HEY: {}
-ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
+    HERO1 = """ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
     PUNITHRAJKUMAR = """<b>ಪವರ್ ಸ್ಟಾರ್ ಪುನೀತ್ ರಾಜ್‌ಕುಮಾರ್</b>
 <code>appu 2002</code>
@@ -2349,6 +2348,90 @@ Durga shakti 1999</code>
 <code>Odeya 2019</code>
 <code>Robert 2021</code>
 <code>Head Bush 2022</code>"""
+
+    SHASHIKUMAR = """<b>ಸುಪ್ರೀಂ ಹೀರೋ ಶಶಿಕುಮಾರ್</b> 
+<code>Chiranjeevi Sudhakar 1988</code>
+<code>Yuddha Kaanda 1989</code>
+<code>Indrajith 1989</code>
+<code>C.B.I. Shankar 1989</code>
+<code>Baare Nanna Muddina Rani 1990</code>
+<code>Mruthyunjaya 1990</code>
+<code>Rudra Thaandava 1990</code>
+<code>Rani Maharani 1990</code>
+<code>Policena Hendthi 1990</code>
+<code>S. P. Sangliyana Part 2 1990</code>
+<code>Trinetra 1990</code>
+<code>Wanted 1990</code>
+<code>Ibbaru Hendira Muddina Police 1991</code>
+<code>Anatha Rakshaka 1991</code>
+<code>Maneli Ili Beedeeli Huli 1991</code>
+<code>Readymade Ganda 1991</code>
+<code>Kollur Kala 1991</code>
+<code>Kitturina Huli 1991</code>
+<code>Gandanige Takka Hendathi 1991</code>
+<code>Sakalakalavallabha 1991</code>
+<code>Kalla Malla 1991</code>
+<code>Keralida Kesari 1991</code>
+<code>Kanasina Rani 1992</code>
+<code>Edurmaneli Ganda Pakkadmaneli Hendthi 1992</code>
+<code>Hosa Kalla Hale Kulla 1992</code>
+<code>Aathma Bandhana 1992</code>
+<code>Gandharva 1992</code>
+<code>Mallige Hoove 1992</code>
+<code>Baa Nanna Preethisu 1992</code>
+<code>Hendthire Hushar 1992</code>
+<code>Sarkarakke Saval 1993</code>
+<code>Shrungara Raja 1993</code>
+<code>Muddina Maava 1993</code>
+<code>Kempaiah IPS 1993</code>
+<code>Dharma Peeta 1993</code>
+<code>Kalyana Rekhe 1993</code>
+<code>Alexander 1994</code>
+<code>Mutthanna 1994</code>
+<code>Sammilana 1994</code>
+<code>Kunti Putra 1994</code>"""
+
+    SHASHIKUMAR = """<code>Swathi 1994</code>
+<code>Nighata 1995</code>
+<code>Thumbida Mane 1995</code>
+<code>Ganeshana Galate 1995</code>
+<code>Rowdy 1995</code>
+<code>Stree 1995</code>
+<code>Shubha Lagna 1995</code>
+<code>Muddina Aliya 1996</code>
+<code>Nirbandha 1996</code>
+<code>Laxmi Mahalaxmi 1997</code>
+<code>Balida Mane 1997</code>
+<code>Baalina Daari 1997</code>
+<code>Doni Sagali 1998</code>
+<code>Baaro Nanna Muddina Krishna 1998</code>
+<code>Khalayanaka 1999</code>
+<code>Habba 1999</code>
+<code>Snehaloka 1999</code>
+<code>Coolie Raja 1999</code>
+<code>Sundarapurusha 1999</code>
+<code>Yaarige Saluthe Sambala 2000</code>
+<code>Yajamana 2000</code>
+<code>Bahala Chennagide 2001</code>
+<code>Haalappa 2001</code>
+<code>Kanasugara 2001</code>
+<code>Baanallu Neene Bhuviyallu Neene 2002</code>
+<code>Ree Swalpa Bartheera 2003</code>
+<code>Sahukara 2004</code>
+<code>Hendthi Andre Hendthi 2004</code>
+<code>Masti 2007</code>
+<code>Bandhu Balaga 2008</code>
+<code>Slum Baala 2008</code>
+<code>Lift Kodla 2010</code>
+<code>Naradha Vijaya 2010</code>
+<code>Rame Gowda Vs Krishna Reddy 2010</code>
+<code>Take It Easy 2011</code>
+<code>Kranthiveera Sangolli Rayanna 2012</code>
+<code>Galaate 2013</code>
+<code>Power 2014</code>
+<code>Shivayogi Sri Puttayyajja 2016</code>
+<code>Kurukshetra 2019</code>
+<code>Bairagee 2022</code>"""
 
 
 
