@@ -2435,6 +2435,21 @@ Durga shakti 1999</code>
 <code>Kurukshetra 2019</code>
 <code>Bairagee 2022</code>"""
 
+    THARUNSUDHIR = """<b>ತರುಣ್ ಸುಧೀರ್</b>
+<code>Ganeshana Maduve 1990</code>
+<code>Excuse Me 2003</code>
+<code>Chappale 2004</code>
+<code>Crime Story 2004</code>
+<code>Vishnu Sena 2005</code>
+<code>Jothe Jotheyali 2006</code>
+<code>Vidyarthi 2007</code>
+<code>Navagraha 2008</code>
+<code>Honganasu 2008</code>
+<code>Cheluveye Ninne Nodalu 2010</code>
+<code>Haggada Kone 2014</code>
+<code>Gajakesari 2014</code>
+<code>Vrithra 2019</code>"""
+
 
 
 
