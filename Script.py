@@ -2450,6 +2450,16 @@ Durga shakti 1999</code>
 <code>Gajakesari 2014</code>
 <code>Vrithra 2019</code>"""
 
+    DHYAN = """<b>ಧ್ಯಾನ್</b> 
+<code>Nanna Preethiya Hudugi 2001</code>
+<code>Monalisa 2004</code>
+<code>Jootata 2005</code>
+<code>Amrithadhare 2005</code>
+<code>Jackpot 2006</code>
+<code>Sajni 2007</code>
+<code>Neene Neene 2008</code>
+<code>Huduga Hudugi 2010</code>"""
+
 
 
 
