@@ -2070,6 +2070,79 @@ Ananda_2003</code> (not available)
 <code>Thimayya_&_Thimayya_2022</code>
 <code>Vijayanand_2022</code>"""
 
+    DHRUVASARJA = """<b>ಧ್ರುವ ಸರ್ಜಾ</b> 
+<code>Addhuri 2012</code> 
+<code>Bahaddur 2014</code> 
+<code>Bharjari 2017</code> 
+<code>Pogaru 2021</code> """
+
+    ARJUNSARJA = """<b>ಅರ್ಜುನ್ ಸರ್ಜಾ</b> 
+<code>Simhada Mari Sainya 1981</code>
+<code>Aasha 1983</code>
+<code>Prema Yuddha 1983</code>
+<code>Pooja Phala 1984</code>
+<code>Prema Jyothi 1984</code>
+<code>Male Bantu Male 1984</code>
+<code>Pralayanthaka 1984</code>
+<code>Na Ninna Preetisuve 1986</code>
+<code>Premagni 1989</code>
+<code>Prathap 1990</code>
+<code>Police Lockup 1992</code>
+<code>Snehada Kadalalli 1992</code>
+<code>Shivanaga 1992</code>
+<code>Alimayya 1993</code>
+<code>Sri Manjunatha 2001</code>
+<code>Prasad 2012</code>
+<code>Attahaasa 2013</code>
+<code>Abhimanyu 2014</code>
+<code>Game 2016</code>
+<code>Vismaya 2017</code>
+<code>Kurukshetra 2019</code>
+<code>Oppanda 2022</code>(not available)"""
+
+    KASHINATH = """<b>ಕಾಶೀನಾಥ್</b> 
+<code>Amara_Madhura_Prema_1982</code> (not available)
+<code>Anubhava_1984</code>
+<code>Anaamika_1987</code>
+<code>Avale_Nanna_Hendthi_1988</code>
+<code>Anantana_Avantara_1989</code> (not available)
+<code>Adrushta_Rekhe_1989</code>
+<code>Thayigobba_Tharle_Maga_1989</code>
+<code>Avane_Nanna_Ganda_1989</code>
+<code>Preyasi_Preethisu_1989</code>
+<code>Love_Maadi_Nodu_1989</code>
+<code>Manmatha_Raja_1989</code>
+<code>Sura_Sundaranga_1989</code>
+<code>Singari_Bangari_1989</code>
+<code>Kaliyuga_Krishna_1990</code> (not available)
+<code>Poli_Kitty_1990</code>
+<code>Chapala_Chennigaraya_1990</code>
+<code>Kempu_Surya_1990</code>
+<code>Ajagajantara_1991</code>
+<code>Athi_Madura_Anuraga_1992</code>
+<code>Love_Training_1993</code>
+<code>Shhh_1993</code>
+<code>Hendathi_Endare_Heegirabeku_1995</code>
+<code>Bangarada_Mane_1996</code>
+<code>Baduku_Jatakabandi_1997</code>
+<code>Hello_Yama_1998</code>
+<code>Chorguru_Chandala_Sishya_1998</code>
+<code>Rambe_Urvashi_Menake_1999</code> (not available)
+<code>Meese_Hotta_Gandasige_Demandappu_Demandu_1999</code>
+<code>Sundara_Neenu_Sundari_Naanu_2000</code> (not available)
+<code>Mava_Mava_Maduve_Maado_2000</code>
+Kachaguli_2004</code> (not available)
+<code>Aha_Nanna_Tangi_Maduve_2004</code> (not available)
+<code>Naari_Munidare_Gandu_Parari_2004</code>
+Super_Aliya_2004</code>
+<code>3Ka_Moorkha_2005</code> (not available)
+<code>Bitti_Thaali_Gatti_Mela_2006</code>
+<code>Appachchi_2007</code>
+<code>12AM_Madhyarathri_2012</code> (not available)
+<code>Zoom_2016</code>
+<code>Chowka_2017</code>
+<code>Ol_Muniswamy_2018</code> (not available)"""
+
 
 
 
