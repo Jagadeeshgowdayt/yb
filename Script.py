@@ -27,6 +27,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 
     HERO1 = """ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
+    HERO2 = """ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
+
     PUNITHRAJKUMAR = """<b>ಪವರ್ ಸ್ಟಾರ್ ಪುನೀತ್ ರಾಜ್‌ಕುಮಾರ್</b>
 <code>appu 2002</code>
 <code>abhi 2003</code>
@@ -2391,7 +2393,7 @@ Durga shakti 1999</code>
 <code>Sammilana 1994</code>
 <code>Kunti Putra 1994</code>"""
 
-    SHASHIKUMAR = """<code>Swathi 1994</code>
+    SHASHIKUMAR1 = """<code>Swathi 1994</code>
 <code>Nighata 1995</code>
 <code>Thumbida Mane 1995</code>
 <code>Ganeshana Galate 1995</code>
