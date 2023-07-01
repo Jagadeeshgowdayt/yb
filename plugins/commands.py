@@ -385,7 +385,7 @@ async def channel_info(bot, message):
 
 
 @Client.on_message(filters.command("movies") & filters.incoming)
-async def start(client, message):
+async def movies(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton('Channel and Group', url='https://t.me/addlist/AaU4Pcvtd2BkNmVl') 
