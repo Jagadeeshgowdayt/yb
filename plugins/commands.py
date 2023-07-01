@@ -52,7 +52,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('Channel and Group', urĺ='https://t.me/addlist/AaU4Pcvtd2BkNmVl')
+                    InlineKeyboardButton('Channel and Group', urĺ='https://t.me/addlist/kannada_movies_rvasp')
                 ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat=''),
                 ],[
@@ -96,7 +96,7 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                    InlineKeyboardButton('Channel and Group', url='https://t.me/addlist/AaU4Pcvtd2BkNmVl')
+                    InlineKeyboardButton('Channel and Group', url='https://t.me/addlist/kannada_movies_rvasp')
                 ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat=''),
                 ],[
