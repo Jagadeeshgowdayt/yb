@@ -21,6 +21,12 @@ BATCH_FILES = {}
 @Client.on_message(filters.command("new_movies") & filters.incoming)
 async def new_movies(client, message):
         buttons = [[
+                    InlineKeyboardButton('ಮದುವೆ ಮಾಡ್ರೀ ಸರಿಹೋಗ್ತಾನೆ', url='https://v2.kpslink.in/pqTCS'),
+                    InlineKeyboardButton('Sergeant 2023', url='https://v2.kpslink.in/KATJj8yS') 
+        ],[
+                    InlineKeyboardButton('Orata (2023)', url='https://v2.kpslink.in/QEaDT'), 
+                    InlineKeyboardButton('Run Raja Run dub', url='https://v2.kpslink.in/uQevG')    
+        ],[
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -40,8 +46,6 @@ async def movies(client, message):
                     InlineKeyboardButton('coming up', callback_data='year')
         ],[
                     InlineKeyboardButton('coming up', callback_data='genres')
-        ],[
-                    InlineKeyboardButton('Recent added new movies', callback_data='recent')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
