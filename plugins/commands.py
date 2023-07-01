@@ -18,8 +18,8 @@ logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
 
-@Client.on_message(filters.command("new") & filters.incoming)
-async def new(client, message):
+@Client.on_message(filters.command("new_movies") & filters.incoming)
+async def new_movies(client, message):
         buttons = [[
                     InlineKeyboardButton('Channel and Group', url='https://t.me/addlist/AaU4Pcvtd2BkNmVl') 
         ],[
@@ -36,7 +36,7 @@ async def new(client, message):
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
-            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+            caption=script.NEW.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
 )
@@ -48,14 +48,6 @@ async def start(client, message):
                     InlineKeyboardButton('Channel and Group', url='https://t.me/addlist/AaU4Pcvtd2BkNmVl') 
         ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
-                ],[
-                    InlineKeyboardButton('Hero List', callback_data="hero"),
-                ],[
-                    InlineKeyboardButton('coming up', callback_data='year')
-        ],[
-                    InlineKeyboardButton('coming up', callback_data='genres')
-        ],[
-                    InlineKeyboardButton('Recent added new movies', callback_data='recent')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
