@@ -29,6 +29,23 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 
     HERO2 = """<b>ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
+    HOW = """<b>How to use bot</b>
+
+How to open movie list and get movie
+https://t.me/how_to_use_bot_rvasp/2
+
+How to use Inline search in bot or group
+https://t.me/how_to_use_bot_rvasp/8
+
+How to verify (if verification is on) now verification is off
+https://t.me/how_to_use_bot_rvasp/15"""
+
+    NEW = """<b>How to open link</b> 
+https://t.me/how_to_open_links1"""
+
+    MOVIES = """ENJOY"""
+
+
     PUNITHRAJKUMAR = """<b>ಪವರ್ ಸ್ಟಾರ್ ಪುನೀತ್ ರಾಜ್‌ಕುಮಾರ್</b>
 <code>appu 2002</code>
 <code>abhi 2003</code>
