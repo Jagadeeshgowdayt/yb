@@ -30,13 +30,10 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HERO2 = """<b>ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
     HOW = """<b>How to use bot</b>
-
 How to open movie list and get movie
 https://t.me/how_to_use_bot_rvasp/2
-
 How to use Inline search in bot or group
 https://t.me/how_to_use_bot_rvasp/8
-
 How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
