@@ -22,6 +22,8 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
+                    InlineKeyboardButton('Channel and Group', callback_data='https://t.me/addlist/AaU4Pcvtd2BkNmVl') 
+        ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
                 ],[
                     InlineKeyboardButton('Hero List', callback_data="hero"),
@@ -50,14 +52,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('🎥 Official Channel 🎥', url='http://t.me/Kannada_movies_rvasp')
+                    InlineKeyboardButton('Channel and Group', callback_data='https://t.me/addlist/AaU4Pcvtd2BkNmVl')
                 ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
-                    InlineKeyboardButton('How to use', url='https://t.me/how_to_use_bot_rvasp') 
-        ],[
                     InlineKeyboardButton('Recent Movies', callback_data='recent') 
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -98,14 +96,10 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                    InlineKeyboardButton('🎥 Official Channel 🎥', url='http://t.me/kannada_movies_rvasp')
+                    InlineKeyboardButton('Channel and Group', callback_data='https://t.me/addlist/AaU4Pcvtd2BkNmVl')
                 ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
-                    InlineKeyboardButton('How to use', url='https://t.me/how_to_use_bot_rvasp') 
-        ],[
                     InlineKeyboardButton('Recent Movies', callback_data='recent') 
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
