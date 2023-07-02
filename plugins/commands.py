@@ -21,6 +21,9 @@ BATCH_FILES = {}
 @Client.on_message(filters.command("new_movies") & filters.incoming)
 async def new_movies(client, message):
         buttons = [[
+                    InlineKeyboardButton('WOW [World of Windows] #SDTVRip', url='https://v2.kpslink.in/qZZHVG'), 
+                    InlineKeyboardButton('empty', url='t.me')    
+        ],[
                     InlineKeyboardButton('ಮದುವೆ ಮಾಡ್ರೀ ಸರಿಹೋಗ್ತಾನೆ', url='https://v2.kpslink.in/pqTCS'),
                     InlineKeyboardButton('Sergeant 2023', url='https://v2.kpslink.in/KATJj8yS') 
         ],[
