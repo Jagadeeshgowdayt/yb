@@ -40,7 +40,7 @@ https://t.me/how_to_use_bot_rvasp/8
 How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
-    NEW = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
+    SERIALS = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
 
 ಮಹಾಭಾರತ
 Search format
