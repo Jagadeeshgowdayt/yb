@@ -18,24 +18,16 @@ logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
 
-@Client.on_message(filters.command("new_movies") & filters.incoming)
-async def new_movies(client, message):
+@Client.on_message(filters.command("serials") & filters.incoming)
+async def serials(client, message):
+    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
-                    InlineKeyboardButton('WOW [World of Windows] #SDTVRip', url='https://v2.kpslink.in/qZZHVG'), 
-                    InlineKeyboardButton('empty', url='t.me')    
-        ],[
-                    InlineKeyboardButton('ಮದುವೆ ಮಾಡ್ರೀ ಸರಿಹೋಗ್ತಾನೆ', url='https://v2.kpslink.in/pqTCS'),
-                    InlineKeyboardButton('Sergeant 2023', url='https://v2.kpslink.in/KATJj8yS') 
-        ],[
-                    InlineKeyboardButton('Orata (2023)', url='https://v2.kpslink.in/QEaDT'), 
-                    InlineKeyboardButton('Run Raja Run dub', url='https://v2.kpslink.in/uQevG')    
-        ],[
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
-            caption=script.NEW.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+            caption=script.SERIALS.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
 )
