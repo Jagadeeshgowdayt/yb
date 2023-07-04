@@ -73,7 +73,7 @@ async def pm_text(bot, message):
     await message.reply_text("<b>ದಯವಿಟ್ಟು ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ಬಳಸಿ ಅಥವಾ ɢʀᴏᴜᴘ ಮಾಡಿ bot ಅನ್ನು admin madi ಚಲನಚಿತ್ರ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ...\n\nನೀವು ಇಲ್ಲಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ\n\nಚಲನಚಿತ್ರಗಳಿಗಾಗಿ ಸೇರಿಕೊಳ್ಳಿ\nhttps://t.me/+EnV3oefjryJiNjQ1</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
-        text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : tg://openmessage?user_id={user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
+        text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nUser ID : <code>{user_id}</code>\n\nMessaging ID : tg://openmessage?user_id={user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
     )
 
 @Client.on_callback_query(filters.regex(r"^next"))
