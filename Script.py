@@ -40,8 +40,20 @@ https://t.me/how_to_use_bot_rvasp/8
 How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
-    NEW = """<b>How to open link</b> 
-https://t.me/how_to_open_links1"""
+    NEW = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
+
+ಮಹಾಭಾರತ
+Search format
+Mahabharata S01E01
+Mahabharata S01E02
+Mahabharata S01E03...........
+
+ಶ್ರೀ ವಿಷ್ಣು ದಶಾವತಾರ
+Search format
+Searching format 
+Shree Vishnu Dashavatara Episode 01
+Shree Vishnu Dashavatara Episode 02
+Shree Vishnu Dashavatara Episode 03........."""
 
     MOVIES = """ENJOY"""
 
