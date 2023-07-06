@@ -41,7 +41,7 @@ How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
     SERIALS = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
-"For missing episode:[contact](https://t.me/+JRamlHg3KX81Mjll)"
+For missing episode contact https://t.me/+JRamlHg3KX81Mjll
 
 <b>ಮಹಾಭಾರತ</b>
 Search format
