@@ -41,19 +41,26 @@ How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
     SERIALS = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
+"For missing episode:[contact](https://t.me/+JRamlHg3KX81Mjll)"
 
-ಮಹಾಭಾರತ
+<b>ಮಹಾಭಾರತ</b>
 Search format
 Mahabharata S01E01
 Mahabharata S01E02
 Mahabharata S01E03...........
 
-ಶ್ರೀ ವಿಷ್ಣು ದಶಾವತಾರ
+<b>ಶ್ರೀ ವಿಷ್ಣು ದಶಾವತಾರ</b>
 Search format
 Searching format 
-Shree Vishnu Dashavatara Episode 01
-Shree Vishnu Dashavatara Episode 02
-Shree Vishnu Dashavatara Episode 03........."""
+Dashavatara Episode 01
+Dashavatara Episode 02
+Dashavatara Episode 03 .........
+
+<b>ಮಹಾನಾಯಕ ಡಾ. ಬಿ. ಆರ್. ಅಂಬೇಡ್ಕರ್</b>
+Searching format
+Mahanayaka S01E01
+Mahanayaka S01E02
+Mahanayaka S01E03........"""
 
     MOVIES = """ENJOY"""
 
