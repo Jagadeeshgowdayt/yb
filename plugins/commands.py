@@ -20,7 +20,6 @@ BATCH_FILES = {}
 
 @Client.on_message(filters.command("serials") & filters.incoming)
 async def serials(client, message):
-    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
@@ -34,7 +33,6 @@ async def serials(client, message):
 
 @Client.on_message(filters.command("movies") & filters.incoming)
 async def movies(client, message):
-    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton('Hero List', callback_data="hero"),
                 ],[
@@ -49,6 +47,28 @@ async def movies(client, message):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
+
+@Client.on_message(filters.command("wwr") & filters.incoming)
+async def serials(client, message):
+    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
+        buttons = [[
+                    InlineKeyboardButton('Season 1', callback_data='wwr1'),
+                    InlineKeyboardButton('Season 2', callback_data='wwr2')
+        ],[
+                    InlineKeyboardButton('Season 3', callback_data='wwr3'),
+                    InlineKeyboardButton('Season 4', callback_data='wwr4')
+        ],[
+                    InlineKeyboardButton('Season 5', callback_data='wwr5'),
+                    InlineKeyboardButton('Empty', callback_data='amba') 
+        ],[
+                    InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
+                  ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_photo(
+            photo=random.choice(PICS),
+            caption=script.WWR.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
 
 @Client.on_message(filters.command("how_to_use") & filters.incoming)
 async def how_to_use(client, message):
