@@ -54,7 +54,16 @@ async def movies(client, message):
 async def serials(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
-                    InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
+                    InlineKeyboardButton('Season 1', callback_data='ww1'),
+                    InlineKeyboardButton('Season 2', callback_data='wwr2') 
+        ],[
+                    InlineKeyboardButton('Season 3', callback_data='wwr3'),
+                    InlineKeyboardButton('Season 4', callback_data='ww4') 
+        ],[
+                    InlineKeyboardButton('Season 5', callback_data='wwr5'),
+                    InlineKeyboardButton('❌', callback_data='ambh1') 
+        ],[
+                    InlineKeyboardButton(text="❌𝖢𝗅𝗈𝗌𝖾❌", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
