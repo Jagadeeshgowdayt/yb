@@ -20,7 +20,6 @@ BATCH_FILES = {}
 
 @Client.on_message(filters.command("serials") & filters.incoming)
 async def serials(client, message):
-    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
@@ -34,7 +33,6 @@ async def serials(client, message):
 
 @Client.on_message(filters.command("movies") & filters.incoming)
 async def movies(client, message):
-    if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton('Hero List', callback_data="hero"),
                 ],[
