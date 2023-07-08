@@ -40,6 +40,8 @@ https://t.me/how_to_use_bot_rvasp/8
 How to verify (if verification is on) now verification is off
 https://t.me/how_to_use_bot_rvasp/15"""
 
+    WWR = """<b><Select Season/b>"""
+    
     SERIALS = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
 For missing episode contact https://t.me/+JRamlHg3KX81Mjll
 
