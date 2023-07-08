@@ -2496,6 +2496,155 @@ Durga shakti 1999</code>
 <code>Neene Neene 2008</code>
 <code>Huduga Hudugi 2010</code>"""
 
+    WWR1 = """<b>Season 1</b>
+    
+1. <code>Punith Rajkumar - Episode 1</code>
+2. <code>Punith Rajkumar - Episode 2</code>
+3. <code>Ravichandran - Episode 3</code>
+4. <code>Ravichandran - Episode 4</code>
+5. <code>HR Ranganatha - Episode 5</code>
+6. <code>Arjun Sarja - Episode 6</code>
+7. <code>Yash - Episode 7</code>
+8. <code>Yash - Episode 8</code>
+9. <code>Yogaraj Bhat - Episode 9</code>
+10. <code>Seetharamu - Episode 10</code>
+11. <code>Dwarakish - Episode 11</code>
+12. <code>Ashwin Karthik - Episode 12</code>
+13. <code>Radhika Pandit - Episode 13</code>
+14. <code>Guru Kiran - Episode 14</code>
+15. <code>Upendra - Episode 15</code>
+16. <code>Upendra - Episode 16</code>
+17. <code>Shivarajkumar - Episode 17</code>
+18. <code>Shivarajkumar - Episode 18</code>
+19. <code>Gorur Ramaswamy Iyengar Gopinath - Episode 19</code>
+20. <code>Syed Afsar - Episode 20</code>
+21. <code>Umashree - Episode 21</code>
+22. <code>Honnasandra Narasimhaiah Chandrashekar - Episode 22</code>
+23. <code>Master Hirannaiah - Weekend With Ramesh Episode 23</code>
+24. <code>Tara - Weekend With Ramesh Episode 24</code>
+25. <code>Ramesh Aravind Episode 25</code>
+26. <code>Ramesh Aravind Episode 26</code>
+27. <code>Journey - Episode 27</code>"""
+
+    WWR2 = """<b>Season 2</b>
+
+1. <code>Jogi Prem - Episode 1</code>
+2. <code>Rakshita Prem - Episode 2</code>
+3. <code>Vijay Praksh - Episode 3</code>
+4. <code>Vijay Prakash - Episode 4</code>
+5. <code>Duniya Vijay - Episode 5</code>
+6. <code>Rajesh Krishnan - Episode 6</code>
+7. <code>Devaraj - Episode 7</code>
+8. <code>Rangayana Raghu - Episode 8</code>
+9. <code>Ambarish - Episode 9</code>
+10. <code>Ambarish - Episode 10</code>
+11. <code>Darshan - Episode 11</code>
+12. <code>Darshan - Episode 12</code>
+13. <code>Sadhu Kokila - Episode 13</code>
+14. <code>Sadhu Kokila - Episode 14</code>
+15. <code>Srujan Lokesh - Episode 15</code>
+16. <code>Doddannna - Episode 16</code>
+17. <code>Srinath - Episode 17</code>
+18. <code>Srinath - Episode 18</code>
+19. <code>S P Balasubramaniam - Episode 19</code>
+20. <code>S P Balasubramaniam - Episode 20</code>
+21. <code>Ananth Nag - Episode 21</code>
+22. <code>Ananth Nag - Episode 22</code>
+23. <code>Lakshmi - Episode 23</code>
+24. <code>Lakshmi - Episode 24</code>
+25. <code>Raghu Dixit - Episode 25</code>
+26. <code>Raghu Dixit - Episode 26</code>
+27. <code>Leelavathi - Episode 27</code>
+28. <code>Rockline Venkatesh - Episode 28</code>
+29. <code>Sudharani - Episode 29</code>
+30. <code>Saroja Devi - Episode 30</code>
+31. <code>Sai Kamar - Episode 31</code>
+32. <code>Ravi Shankar - Episode 32</code>
+33. <code>Sudeep - Episode 33</code>"""
+
+    WWR3 = """<b>Season 3</b>
+
+1. <code>Prakash Raj - Episode 1</code>
+2. <code>Prakash Raj - Episode 2</code>
+3. <code>Jaggesh - Episode 3</code>
+4. <code>Jaggesh - Episode 4</code>
+5. <code>Arjun Janya - Episode 5</code>
+6. <code>Arjun Janya - Episode 6</code>
+7. <code>Gangavathi Pranesh - Episode 7</code>
+8. <code>Gangavathi Pranesh - Episode 8</code>
+9. <code>Bharathi Vishnuvardhan - Episode 9</code>
+10. <code>Jayanth Kaikini - Episode 10</code>
+11. <code>Ravi D. Channannavar - Episode 11</code>
+12. <code>V. Harikrishna - Episode 12</code>
+13. <code>Rakshit Shetty - Episode 13</code>
+14. <code>Priyamani - Episode 14</code>
+15. <code>Kashinath - Episode 15</code>
+16. <code>N. Santosh Hegde - Episode 16</code>
+17. <code>Krishnegowda - Episode 17</code>
+18. <code>Vijay Raghavendra - Episode 18</code>
+19. <code>B. Jayashree - Episode 19</code>
+20. <code>Vijay Sankeshwar - Episode 20</code>
+21. <code>H. D. Deve Gowda - Episode 21</code>
+22. <code>H. D. Deve Gowda - Episode 22</code>
+23. <code>Shruthi - Episode 23</code>
+24. <code>Hiremagaluru Kannan - Episode 24</code>
+25. <code>Siddaramaiah - Episode 25</code>
+26. <code>Siddaramaiah - Episode 26</code>
+27. <code>Ganesh - Episode 27</code>
+28. <code>Ganesh - Episode 28</code>"""
+
+    WWR4 = """<b>Season 4</b>
+
+1. <code>Veerendra Heggade - Episode 1</code>
+2. <code>Veerendra Heggade - Episode 2</code>
+3. <code>Raghavendra Rajkumar - Episode 3</code>
+4. <code>Raghavendra Rajkumar - Episode 4</code>
+5. <code>Prema - Episode 5</code>
+6. <code>Prakash Belawadi - Episode 6</code>
+7. <code>Shashi Kumar - Episode 7</code>
+8. <code>Vinaya Prasad - Episode 8</code>
+9. <code>Sriimurali - Weekend With - Episode 9</code>
+10. <code>Sriimurali - Weekend With - Episode 10</code>
+11. <code>N. R. Narayana Murthy - Episode 11</code>
+12. <code>Sudha Murthy - Weekend With Ramesh - Episode 12</code>
+13. <code>Sumalatha - Episode 13</code>
+14. <code>T. S. Nagabharana - Episode 14</code>
+15. <code>Sharan - Episode 15</code>
+16. <code>Sharan - Episode 16</code>
+17. <code>Vaijanath Biradar - Episode 17</code>
+18. <code>Chikkanna - Episode 18</code>
+19. <code>Shankar Bidari - Episode 19</code>
+20. <code>B. B. Ashok Kumar - Episode 20</code>
+21. <code>Rajendra Singh Babu - Episode 21</code>
+22. <code>Chandrashekhara Kambara - Episode 22</code>
+23. <code>Grand Finale - Episode 23</code>
+24. <code>Grand Finale - Episode 24</code>"""
+
+    WWR5 = """<b>Season 5</b>
+
+1. <code>Ramya - Episode 1</code>
+2. <code>Ramya - Episode 2</code>
+3. <code>Prabhu Deva - Episode 3</code>
+4. <code>Prabhu Deva - Episode - 4</code>
+5. <code>Dr CN Manjunath - Episode 5</code>
+6. <code>Dattanna - Episode 6</code>
+7. <code>Daali Dhananjay - Episode 7</code>
+8. <code>Daali Dhananjay - Episode 8</code>
+9. <code>Avinash - Episode 9</code>
+10. <code>Mandya Ramesh - Episode 10</code>
+11. <code>Sihi Kahi Chandru - Episode 11</code>
+12. <code>Gururaj Karjagi - Episode 12</code>
+13. <code>Prem - Episode 13</code>
+14. <code>Prem - Episode 14</code>
+15. <code>Chinni Prakash - Episode 15</code>
+16. <code>Dr N Someswara - Episode 16</code>
+17. <code>V Nagendra Prasad - Episode 17</code>
+18. <code>Dr Doddarange Gowda - Episode 18</code>
+19. <code>Doddarangegowda - Episode 19</code>
+20. <code>D. K. Shivakumar - Episode 20</code>
+21. <code>D. K. Shivakumar - Episode 21</code>"""
+
+
 
 
 
