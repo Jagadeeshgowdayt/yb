@@ -50,16 +50,6 @@ async def movies(client, message):
 
 @Client.on_message(filters.command("wwr") & filters.incoming)
 async def wwr(client, message):
-        buttons = [[
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1'),
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1') 
-        ],[
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1') 
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1') 
-        ],[
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1'),
-                    InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='ambarish1') 
-        ],[
                 InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
