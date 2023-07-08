@@ -18,15 +18,15 @@ logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
 
-@Client.on_message(filters.command("serials") & filters.incoming)
-async def serials(client, message):
+@Client.on_message(filters.command("serial") & filters.incoming)
+async def serial(client, message):
         buttons = [[
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
-            caption=script.SERIALS.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+            caption=script.SERIAL.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
