@@ -70,7 +70,6 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    if file_name in filter: return # ignore filter
     await message.reply_text("ದಯವಿಟ್ಟು ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ಬಳಸಿ ಅಥವಾ ɢʀᴏᴜᴘ ಮಾಡಿ bot ಅನ್ನು admin madi ಚಲನಚಿತ್ರ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ...\n\nನೀವು ಇಲ್ಲಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ\n\nಚಲನಚಿತ್ರಗಳಿಗಾಗಿ ಸೇರಿಕೊಳ್ಳಿ\nhttps://t.me/+EnV3oefjryJiNjQ1")
     await message.reply_text("please use inline\n\ninline search is best to search movie\n\nhttps://t.me/how_to_use_bot_rvasp/20")
     await bot.send_message(
