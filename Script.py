@@ -3,6 +3,15 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
 
     RECENT = """<b>Recently Uploaded New Movies</b>
+<code>Good Night</code>
+<code>Vikipedia</code>
+<code>Oru Nalla Naal Paathu</code>
+<code>Shaakuntalam</code>
+<code>Wolfhound</code>
+<code>Anuragam</code>
+<code>Sankarabharanam</code>
+<code>WOW</code>
+<code>Savitri</code>
 <code>Orata</code>
 <code>Sergeant</code>
 <code>Run Raja Run<code>
