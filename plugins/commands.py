@@ -21,6 +21,7 @@ BATCH_FILES = {}
 @Client.on_message(filters.command("new_movies") & filters.incoming)
 async def new_movies(client, message):
         buttons = [[
+                    InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='James'),
                     InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
