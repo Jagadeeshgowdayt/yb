@@ -21,7 +21,10 @@ Press 9 for Savitri"""
     HERO2 = """<b>ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
 
     HOW = """<b>How to use bot</b>
-    
+
+How to check new movies 
+https://t.me/how_to_use_bot_rvasp/21
+
 How to open movie list and get movie
 https://t.me/how_to_use_bot_rvasp/2
 
