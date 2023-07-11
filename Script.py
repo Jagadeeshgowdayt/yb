@@ -3,33 +3,15 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
 
     RECENT = """<b>Recently Uploaded New Movies</b>
-<code>Good Night</code>
-<code>Vikipedia</code>
-<code>Oru Nalla Naal Paathu</code>
-<code>Shaakuntalam</code>
-<code>Wolfhound</code>
-<code>Anuragam</code>
-<code>Sankarabharanam</code>
-<code>WOW</code>
-<code>Savitri</code>
-<code>Orata</code>
-<code>Sergeant</code>
-<code>Run Raja Run<code>
-<code>Falaknuma Das</code>
-<code>Theera Kaadhal<c/ode>
-<code>Mumbaikar</code>
-<code>Chandramukhi kannada</code> (rajinikanth tamil movie in kannada) 
-<code>Karthavya 2023</code>
-<code>Malikappuram</code>
-<code>Huli</code> (tamil puli)
-<code>Narasimha</code> (shankar nag old movie)
-<code>Gadiraja</code>
-<code>Parugu</code>
-<code>Alluri 2023</code>
-<code>I Love You 2023</code>
-<code>Stand Up Rahul 2023</code>
-<code>Shri Balaji Photo Studio 2023</code>
-<code>Bhikshuka 2 2023</code>"""
+Press 1 for Good Night
+Press 2 for Vikipedia
+Press 3 for Oru Nalla Naal Paathu
+Press 4 for Shaakuntalam
+Press 5 for Wolfhound
+Press 6 for Anuragam
+Press 7 for Sankarabharanam
+Press 8 for WOW
+Press 9 for Savitri"""
 
     HERO = """<b>Hᴇʏ {}
 ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
