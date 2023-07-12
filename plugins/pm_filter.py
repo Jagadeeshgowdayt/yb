@@ -37,12 +37,6 @@ logger.setLevel(logging.ERROR)
 BUTTONS = {}
 SPELL_CHECK = {}
 
-@Client.on_message(filters.private & filters.text & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
-async def pv_filter(client, message):
-    rk = await global_filters(client, message)
-    if rk == False:
-        await auto_filter(client, message)
-
 @Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
     if message.chat.id != SUPPORT_CHAT_ID:
@@ -68,6 +62,19 @@ async def give_filter(client, message):
         else:
             return await message.reply_text(f"<b>ನಮಸ್ಕಾರ {message.from_user.mention}, {str(total_results)} {search} ಚಲನಚಿತ್ರದ ಫೈಲ್‌ಗಳು ಇವೆ...\n\nಇದು sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ಆದ್ದರಿಂದ ನೀವು ಇಲ್ಲಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ...\n\nಚಲನಚಿತ್ರಗಳಿಗಾಗಿ ಸೇರಿಕೊಳ್ಳಿ\nhttps://t.me/+EnV3oefjryJiNjQ1</b>")
 
+@Client.on_message(filters.private & filters.text & filters.incoming)
+async def pm_text(bot, message):
+    content = message.text
+    user = message.from_user.first_name
+    user_id = message.from_user.id
+    if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
+    if user_id in ADMINS: return # ignore admins
+    await message.reply_text("ನೀವು ಇಲ್ಲಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ\n\nಚಲನಚಿತ್ರಗಳಿಗಾಗಿ ಸೇರಿಕೊಳ್ಳಿ\nhttps://t.me/+EnV3oefjryJiNjQ1")
+    await bot.send_message(
+        chat_id=LOG_CHANNEL,
+        text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nUser ID : <code>{user_id}</code>\n\nMessaging ID : tg://openmessage?user_id={user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
+        )
+    
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
     ident, req, key, offset = query.data.split("_")
