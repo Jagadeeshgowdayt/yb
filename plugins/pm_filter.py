@@ -37,16 +37,11 @@ logger.setLevel(logging.ERROR)
 BUTTONS = {}
 SPELL_CHECK = {}
 
-@Client.on_message(filters.private & filters.text & filters.chat(AUTH_USERS) if AUTH_USERS else filters.text & filters.private)
-async def auto_pm_fill(b, m):
-    if PMFILTER:       
-        if G_FILTER:
-            kd = await global_filters(b, m)
-            if kd == False:
-                await pm_AutoFilter(b, m)
-        else:      
-            await pm_AutoFilter(b, m)
-    else: return 
+@Client.on_message(filters.private & filters.text & filters.incoming & filters.user(AUTH_USERS) if AUTH_USERS else filters.private & filters.text & filters.incoming)
+async def pv_filter(client, message):
+    rk = await global_filters(client, message)
+    if rk == False:
+        await auto_filter(client, message)
 
 @Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
