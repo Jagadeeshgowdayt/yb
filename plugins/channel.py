@@ -14,7 +14,9 @@ async def media(bot, message):
             break
     else:
         return
-
+        
+    media.file_type = link_type
     media.file_type = file_type
     media.caption = message.caption
+    await save_link(media)
     await save_file(media)
