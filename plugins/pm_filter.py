@@ -2877,10 +2877,6 @@ async def auto_filter(client, msg, spoll=False):
                 await message.delete()
         except Exception as e:
             logger.exception(e)
-            m=await message.reply_sticker("CAACAgUAAxkBAAFDeptkr5TtVyMkIs4TevoXZWVBRss-6wACDAoAAjC_eFWxw_Gah5zk_R4E")
-                    await asyncio.sleep(2)
-                    await fek.delete()
-                    await message.delete()
             fek = await message.reply_photo(photo=NOR_IMG, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
             try:
                 if settings['auto_delete']:
@@ -2893,10 +2889,6 @@ async def auto_filter(client, msg, spoll=False):
                 await fek.delete()
                 await message.delete()
     else:
-        m=await message.reply_sticker("CAACAgUAAxkBAAFDeptkr5TtVyMkIs4TevoXZWVBRss-6wACDAoAAjC_eFWxw_Gah5zk_R4E")
-                    await asyncio.sleep(2)
-                    await fek.delete()
-                    await message.delete()
         fuk = await message.reply_photo(photo=NOR_IMG, caption=cap, reply_markup=InlineKeyboardMarkup(btn))
         try:
             if settings['auto_delete']:
