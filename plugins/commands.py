@@ -36,6 +36,7 @@ async def new_movies(client, message):
                     InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        m=await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.RECENT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
