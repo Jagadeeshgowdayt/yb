@@ -33,6 +33,14 @@ async def new_movies(client, message):
                     InlineKeyboardButton('8', switch_inline_query_current_chat='WOW'),
                     InlineKeyboardButton('9', switch_inline_query_current_chat='Savitri')
         ],[
+                    InlineKeyboardButton('10', switch_inline_query_current_chat='Uncharted'),
+                    InlineKeyboardButton('11', switch_inline_query_current_chat=''),
+                    InlineKeyboardButton('12', switch_inline_query_current_chat='')
+        ],[
+                    InlineKeyboardButton('13', switch_inline_query_current_chat=''),
+                    InlineKeyboardButton('14', switch_inline_query_current_chat=''),
+                    InlineKeyboardButton('15', switch_inline_query_current_chat='')
+        ],[
                     InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
