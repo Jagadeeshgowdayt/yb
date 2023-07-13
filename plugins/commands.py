@@ -262,7 +262,6 @@ async def start(client, message):
             except FloodWait as e:
                 await asyncio.sleep(e.x)
                 logger.warning(f"Floodwait of {e.x} sec.")
-                m=await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
                 await client.send_cached_media(
                     chat_id=message.from_user.id,
                     file_id=msg.get("file_id"),
@@ -383,7 +382,6 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(btn)
                 )
                 return
-                m=await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
             msg = await client.send_cached_media(
                 chat_id=message.from_user.id,
                 file_id=file_id,
@@ -437,7 +435,6 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(btn)
         )
         return
-        m=await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
