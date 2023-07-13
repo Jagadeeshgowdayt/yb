@@ -647,6 +647,7 @@ async def send_all(bot, userid, files, ident):
         if f_caption is None:
             f_caption = f"{title}"
         try:
+            m=await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
             await bot.send_cached_media(
                 chat_id=userid,
                 file_id=file.file_id,
