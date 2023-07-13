@@ -41,7 +41,7 @@ SPELL_CHECK = {}
 async def pv_filter(client, message):
     rk = await global_filters(client, message)
     if rk == False:
-        await auto_filter(client, message
+        await auto_filter(client, message)
 
 @Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
