@@ -2907,15 +2907,10 @@ async def auto_filter(client, msg, spoll=False):
     reqstr1 = msg.from_user.id if msg.from_user else 0
     reqstr = await client.get_users(reqstr1)
     if not spoll:
-    m = await message.reply_sticker("CAACAgUAAxkBAAFDeptkr5TtVyMkIs4TevoXZWVBRss-6wACDAoAAjC_eFWxw_Gah5zk_R4E")
-    
-    # Delay for 2 seconds
-    await asyncio.sleep(2)
-    
-    # Delete the sticker
-    await m.delete()
-
-    rk = await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
+        m = await message.reply_sticker("CAACAgUAAxkBAAFDeptkr5TtVyMkIs4TevoXZWVBRss-6wACDAoAAjC_eFWxw_Gah5zk_R4E")
+        await asyncio.sleep(2)
+        await m.delete()
+        rk = await message.reply_sticker("CAACAgUAAxkBAAFDeLdkr4COi51mvyZUAAG5l0EmIiwY2J4AAswKAALopYBVbzDUtgk8NrIeBA")
 
 
 
