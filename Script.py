@@ -10,7 +10,7 @@ Press 4 for Shaakuntalam
 Press 5 for Wolfhound
 Press 6 for Anuragam
 Press 7 for Sankarabharanam
-Press 8 for WOW
+Press 8 for Uncharted 
 Press 9 for Savitri"""
 
     HERO = """<b>Hᴇʏ {}
