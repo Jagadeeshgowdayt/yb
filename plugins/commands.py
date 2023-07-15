@@ -34,7 +34,7 @@ async def new_movies(client, message):
                     InlineKeyboardButton('9', switch_inline_query_current_chat='Savitri')
         ],[
                     InlineKeyboardButton('10', switch_inline_query_current_chat='Uncharted'),
-                    InlineKeyboardButton('11', switch_inline_query_current_chat=''),
+                    InlineKeyboardButton('11', switch_inline_query_current_chat='Thandatti'),
                     InlineKeyboardButton('12', switch_inline_query_current_chat='')
         ],[
                     InlineKeyboardButton('13', switch_inline_query_current_chat=''),
