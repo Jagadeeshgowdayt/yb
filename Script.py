@@ -12,7 +12,8 @@ Press 6 for Anuragam
 Press 7 for Sankarabharanam
 Press 8 for Wow 
 Press 9 for Savitri
-Press 10 for Uncharted"""
+Press 10 for Uncharted
+Press 11 for Thandatti"""
 
     HERO = """<b>Hᴇʏ {}
 ನಿಮ್ಮ ನೆಚ್ಚಿನ ನಾಯಕನ ಆಯ್ಕೆ ಮಾಡಿ.</b>"""
