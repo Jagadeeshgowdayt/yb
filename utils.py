@@ -717,7 +717,7 @@ async def check_verification(bot, userid):
     years, month, day = date_var.split('-')
     comp_date = date(int(years), int(month), int(day))
     hour, minute, second = time_var.split(":")
-    comp_time = time(int(hour), int(minute), int(second
+    comp_time = time(int(hour), int(minute), int(second)
     if comp_date<today:
         return False
     else:
