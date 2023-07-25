@@ -25,21 +25,21 @@ Press 11 for Thandatti"""
     HOW = """<b>How to use bot</b>
 
 How to check new movies 
-https://t.me/how_to_use_bot_rvasp/21
+https://t.me/ybcinimagalu
 
 How to open movie list and get movie
-https://t.me/how_to_use_bot_rvasp/2
+https://t.me/ybcinimagalu
 
 How to use Inline search in bot or group
-https://t.me/how_to_use_bot_rvasp/8
+https://t.me/ybcinimagalu
 
 How to verify (if verification is on) now verification is off
-https://t.me/how_to_use_bot_rvasp/15"""
+https://t.me/ybcinimagalu"""
 
     WWR = """<b><Select Season/b>"""
     
     SERIAL = """<b>ಕನ್ನಡ ಧಾರಾವಾಹಿ</b> 
-For missing episode contact https://t.me/+JRamlHg3KX81Mjll
+For missing episode contact https://t.me/ybcinimagalu
 
 <b>ಮಹಾಭಾರತ</b>
 Search format
@@ -2694,7 +2694,7 @@ Nᴀᴍᴇ - {}"""
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
 
-    MVE_NT_FND = """ಡೇಟಾಬೇಸ್‌ನಲ್ಲಿ ಚಲನಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ...\n\nದಯವಿಟ್ಟು ಚಲನಚಿತ್ರ ಸೇರಿಸಲು ಸಂಪರ್ಕಿಸಿ\nhttps://t.me/+9OOo1l448vhhNmE9\n\n#request ಎಂದು ಹೇಳಿ ನಿಮ್ಮ ಚಲನಚಿತ್ರದ ಹೆಸರು ತಿಳಿಸಿ"""
+    MVE_NT_FND = """ಡೇಟಾಬೇಸ್‌ನಲ್ಲಿ ಚಲನಚಿತ್ರ ಕಂಡುಬಂದಿಲ್ಲ...\n\nದಯವಿಟ್ಟು ಚಲನಚಿತ್ರ ಸೇರಿಸಲು ಸಂಪರ್ಕಿಸಿ\nhttps://t.me/ybcinimagalu ಎಂದು ಹೇಳಿ ನಿಮ್ಮ ಚಲನಚಿತ್ರದ ಹೆಸರು ತಿಳಿಸಿ"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
