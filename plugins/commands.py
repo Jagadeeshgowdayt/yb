@@ -44,7 +44,7 @@ async def new_movies(client, message):
                     InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.RECENT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -58,7 +58,7 @@ async def serial(client, message):
                     InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.SERIAL.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -76,7 +76,7 @@ async def movies(client, message):
                     InlineKeyboardButton('coming up', callback_data='genres')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.MOVIES.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -99,7 +99,7 @@ async def serials(client, message):
                     InlineKeyboardButton(text="❌𝖢𝗅𝗈𝗌𝖾❌", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.WWR.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -113,7 +113,7 @@ async def how_to_use(client, message):
                     InlineKeyboardButton(text="❌️𝖢𝗅𝗈𝗌𝖾❌️", callback_data="close_data")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.HOW.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -130,7 +130,7 @@ async def start(client, message):
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -154,7 +154,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Group ✇', url=CHNL_LNK)
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -198,7 +198,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Group ✇', url=CHNL_LNK)
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgIAAxkBAAEJzvdkv52H-bpBzIHnzlPOlQO0UDQkMwACLjkAAu3DAAFKdIum3iXzL3UvBA")
+        m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
