@@ -730,7 +730,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             reply_markup=InlineKeyboardMarkup(
                                 [
                                 [
-                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="@yb_bots"),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
                                 InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
@@ -803,7 +803,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="@yb_bots"),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
                   InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
