@@ -17,7 +17,7 @@ import base64
 logger = logging.getLogger(__name__)
 
 BATCH_FILES = {}
-SGL = "@yb_bots"
+SGL = "https://t.me/yb_bots"
 @Client.on_message(filters.command("new_movies") & filters.incoming)
 async def new_movies(client, message):
         buttons = [[
