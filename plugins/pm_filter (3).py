@@ -733,7 +733,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                 InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                 InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                                InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                                 ]
                                 ]
                             )
@@ -806,7 +806,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                  InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                  ]
                 ]
             )
@@ -2863,7 +2863,7 @@ async def auto_filter(client, msg, spoll=False):
                 await message.delete()
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
             pic = imdb.get('poster')
-            poster = pic.replace('.jpg', "https://graph.org/file/4add35bca501767e8428f.jpg")
+            poster = pic.replace('.jpg', "https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
             hmm = await message.reply_photo(photo=poster, caption=cap[:1024], reply_markup=InlineKeyboardMarkup(btn))
             try:
                 if settings['auto_delete']:
