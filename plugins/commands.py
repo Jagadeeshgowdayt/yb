@@ -148,10 +148,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('YB Cinimgalu', url='http://t.me/ybcinimagalu')
+                    InlineKeyboardButton('  YB Cinimgalu💛❤️', url='http://t.me/ybcinimagalu')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
-                    InlineKeyboardButton('✇ Jᴏɪɴ Group ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ Support Group🤖 ✇', url="https://t.me/yb_bots"),
+                    InlineKeyboardButton('✇  Request Your Movies 🎥✇', url="https://t.me/new_movies_all_in_one")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
@@ -192,10 +192,10 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                    InlineKeyboardButton('YB Cinimgalu', url='http://t.me/ybcinimagalu')
+                    InlineKeyboardButton('  YB Cinimgalu💛❤️', url='http://t.me/ybcinimagalu')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK),
-                    InlineKeyboardButton('✇ Jᴏɪɴ Group ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ Support Group🤖 ✇', url="https://t.me/yb_bots"),
+                    InlineKeyboardButton('✇  Request Your Movies 🎥✇', url="https://t.me/new_movies_all_in_one")
                 ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgEAAxkBAAEJwmlkuoKkxnsKI0oZmmY0t6ossIyWtAACAQMAAhoNKUTygaQpYFbXRi8E")
@@ -250,7 +250,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                          InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                          ]
                         ]
                     )
@@ -269,7 +269,7 @@ async def start(client, message):
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                          InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                          ]
                         ]
                     )
@@ -388,7 +388,7 @@ async def start(client, message):
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                      InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                      ]
                     ]
                 )
@@ -442,7 +442,7 @@ async def start(client, message):
               InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+              InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
              ]
             ]
         )
