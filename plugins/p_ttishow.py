@@ -41,7 +41,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
-                    InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                    InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -64,7 +64,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("💛❤", url="https://graph.org/file/4add35bca501767e8428f.jpg")
+                                                                           InlineKeyboardButton("💛❤", url="https://graph.org/file/3687c1ba929f98ca9bfcc.jpg")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
